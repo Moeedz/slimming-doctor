@@ -11,36 +11,13 @@
   "type": "header",
   "name": "Header group",
   "sections": {
-    "header": {
-      "type": "header",
-      "custom_css": [
-        "a.header__icon-wrapper.tap-area.hidden-desk[href=\"/search\"] {display: none !important;}",
-        "a[href=\"/search\"] {display: none !important;}"
-      ],
-      "settings": {
-        "enable_sticky_header": true,
-        "logo": "shopify://shop_images/slimming-doctor-logo-1.png",
-        "logo_max_width": 260,
-        "mobile_logo_max_width": 80,
-        "navigation_menu": "main-menu",
-        "sidebar_navigation_menu": "",
-        "header_layout": "logo_center_search_open",
-        "show_icons": true,
-        "reduce_desktop_padding": true,
-        "show_locale_selector": false,
-        "show_country_selector": false,
-        "enable_transparent_header": false,
-        "transparent_header_text_color": "#1a1a1a",
-        "search_menu": ""
-      }
-    },
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
         "message-1": {
           "type": "message",
           "settings": {
-            "text": "Free Shipping on Orders Over $299",
+            "text": "<b>Treatment Clinic:</b> Wednesday 10am-6pm / Sunday 10am-4pm",
             "learn_more_text": "",
             "title": "",
             "content": "",
@@ -62,10 +39,33 @@
         "button_background": "#ffffff",
         "button_text_color": "#ffffff"
       }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+        "a.header__icon-wrapper.tap-area.hidden-desk[href=\"/search\"] {display: none !important;}",
+        "a[href=\"/search\"] {display: none !important;}"
+      ],
+      "settings": {
+        "enable_sticky_header": true,
+        "logo": "shopify://shop_images/slimming-doctor-logo-1.png",
+        "logo_max_width": 260,
+        "mobile_logo_max_width": 170,
+        "navigation_menu": "main-menu",
+        "sidebar_navigation_menu": "",
+        "header_layout": "logo_center_search_open",
+        "show_icons": true,
+        "reduce_desktop_padding": true,
+        "show_locale_selector": false,
+        "show_country_selector": false,
+        "enable_transparent_header": false,
+        "transparent_header_text_color": "#1a1a1a",
+        "search_menu": ""
+      }
     }
   },
   "order": [
-    "header",
-    "announcement-bar"
+    "announcement-bar",
+    "header"
   ]
 }
