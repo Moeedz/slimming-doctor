@@ -17,7 +17,7 @@
         "message-1": {
           "type": "message",
           "settings": {
-            "text": "<b>Treatment Clinic:</b> Wednesday 10am-6pm / Sunday 10am-4pm",
+            "text": "Treatment Clinic: Wednesday 10am-6pm / Sunday 10am-4pm",
             "learn_more_text": "",
             "title": "",
             "content": "",
