@@ -149,6 +149,9 @@
         "collection_c6pTyH",
         "collection_6KehGx"
       ],
+      "custom_css": [
+        "p.heading.heading--small {font-size: 24px !important;}"
+      ],
       "name": "Collection list",
       "settings": {
         "reveal_on_scroll": true,
