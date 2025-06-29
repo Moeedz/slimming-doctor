@@ -27,7 +27,7 @@
       "name": "SS - Scrolling Announcement Bar",
       "settings": {
         "insert_css_class_target": "",
-        "text_size": 14,
+        "text_size": 13,
         "ss_font_family": "montserrat_n4",
         "link": "",
         "animation_duration": 100,
