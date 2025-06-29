@@ -35,7 +35,7 @@
         "pause_hover": false,
         "bg": "#37d2d7",
         "text_color": "#ffffff",
-        "hover_opacity": 100,
+        "hover_opacity": 88,
         "padding_horizontal": 2,
         "padding_vertical": 1.5
       }
