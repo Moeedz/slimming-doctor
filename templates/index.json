@@ -203,9 +203,9 @@
       "settings": {
         "reveal_on_scroll": true,
         "background_type": "full_width",
-        "background_overlap": "image",
+        "background_overlap": "text",
         "image_position": "left",
-        "text_alignment": "left",
+        "text_alignment": "center",
         "cycle_speed": 4,
         "accent_background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
@@ -222,8 +222,8 @@
             "image": "shopify://shop_images/64d3379b32413eb48713bdf0_Smart_Drug.jpg",
             "tab_label": "",
             "subheading": "",
-            "title": "Are You Struggling With?",
-            "content": "<h5>Losing weight and keeping it of</h5><h5>Constantly hungry and low in energy</h5><h5>Being overwhelmed with confusing nutritional advise</h5><h5>Getting stuck in a weight loss plateau</h5>",
+            "title": "Slim Down. Feel Strong. Live Well.",
+            "content": "<h5>Trusted by thousands, our slimming doctor guides you with personalized weight loss plans and holistic wellness strategies that truly work.</h5>",
             "button_text": "",
             "button_link": ""
           }
@@ -241,7 +241,7 @@
         "background_type": "full_width",
         "background_overlap": "image",
         "image_position": "right",
-        "text_alignment": "left",
+        "text_alignment": "center",
         "cycle_speed": 4,
         "accent_background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
@@ -288,8 +288,95 @@
         "subheading": "",
         "title": "",
         "show_arrows": false,
-        "background": "rgba(0,0,0,0)",
+        "background": "#ecf1fc",
         "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ss_image_with_text_9_Ufngdz": {
+      "type": "ss-image-with-text-9",
+      "blocks": {
+        "text_PmfNaQ": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Our goal is to enhance eating habits, beginning with the basics.</h2>",
+            "text_custom": false,
+            "text_font": "josefin_sans_n4",
+            "text_size": 34,
+            "text_size_mobile": 26,
+            "text_height": 150,
+            "text_mt": 0,
+            "text_align": "left",
+            "text_align_mobile": "left",
+            "text_color": "#2B1A1A"
+          }
+        },
+        "icon_text_CTbqcA": {
+          "type": "icon_text",
+          "settings": {
+            "icon": "tick",
+            "text": "We select only the finest ingredients for our products."
+          }
+        },
+        "icon_text_qhD4n9": {
+          "type": "icon_text",
+          "settings": {
+            "icon": "tick",
+            "text": "Our products are sourced from trusted partners."
+          }
+        },
+        "icon_text_dkNgfY": {
+          "type": "icon_text",
+          "settings": {
+            "icon": "tick",
+            "text": "Crafted to preserve flavor and nutrition through optimal cooking processes."
+          }
+        }
+      },
+      "block_order": [
+        "text_PmfNaQ",
+        "icon_text_CTbqcA",
+        "icon_text_qhD4n9",
+        "icon_text_dkNgfY"
+      ],
+      "name": "SS - Image With Text #9",
+      "settings": {
+        "body_gap": 50,
+        "body_gap_mobile": 0,
+        "image": "shopify://shop_images/medical-conference.jpg",
+        "image_position": "left",
+        "image_position_mobile": "top",
+        "image_ratio": "original",
+        "image_ratio_mobile": "square",
+        "content_maxwidth": 550,
+        "content_padding_vertical": 40,
+        "content_padding_vertical_mobile": 20,
+        "content_padding_horizontal": 24,
+        "content_padding_horizontal_mobile": 16,
+        "row_gap": 16,
+        "row_mt": 20,
+        "row_align": "left",
+        "row_align_mobile": "left",
+        "icon_size": 30,
+        "icon_size_mobile": 26,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 18,
+        "text_size_mobile": 16,
+        "text_height": 180,
+        "icon_color": "#AA131D",
+        "text_color": "#2B1A1A",
+        "background_color": "#ffd996",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
       }
     },
     "text_with_icons_rXMyG7": {
@@ -351,6 +438,7 @@
     "collection_list_4f8HyH",
     "image_with_text_fFm8Jd",
     "image_with_text_ryhhwQ",
+    "ss_image_with_text_9_Ufngdz",
     "gallery_RQhq9Q",
     "text_with_icons_rXMyG7"
   ]
