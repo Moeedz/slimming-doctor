@@ -151,7 +151,7 @@
       ],
       "custom_css": [
         "p.heading.heading--small {font-size: 18px !important;}",
-        "@media screen and (min-width: 768px) {p.heading.heading--small {margin-top: 20rem !important;}}",
+        "@media screen and (min-width: 768px) {p.heading.heading--small {margin-top: 20rem !important; }}",
         "@media screen and (max-width: 767px) {p.heading.heading--small {margin-top: 15rem !important; }}"
       ],
       "name": "Collection list",
@@ -196,6 +196,9 @@
         "item_3NrzmN",
         "item_hXrBbj"
       ],
+      "custom_css": [
+        ".image-with-text__image-wrapper {border-radius: 5rem; border: 1px solid;}"
+      ],
       "name": "Image with text",
       "settings": {
         "reveal_on_scroll": true,
@@ -228,6 +231,9 @@
       },
       "block_order": [
         "item_KimdVN"
+      ],
+      "custom_css": [
+        ".image-with-text__image-wrapper {border-radius: 5rem; border: 1px solid;}"
       ],
       "name": "Image with text",
       "settings": {
