@@ -21,31 +21,30 @@
             "image_width": 150
           }
         },
-        "links": {
+        "links_pp6cUt": {
           "type": "links",
           "settings": {
             "menu": "footer"
           }
         },
-        "newsletter_WzFQU3": {
-          "type": "newsletter",
+        "links_NAcxte": {
+          "type": "links",
           "settings": {
-            "title": "Newsletter",
-            "content": "<p>Join our mailing list to get latest updates</p>"
+            "menu": "footer"
           }
         },
         "social_media_XEfPXK": {
           "type": "social_media",
           "settings": {
-            "title": "Follow us",
+            "title": "",
             "content": ""
           }
         }
       },
       "block_order": [
         "image_zhKMWJ",
-        "links",
-        "newsletter_WzFQU3",
+        "links_pp6cUt",
+        "links_NAcxte",
         "social_media_XEfPXK"
       ],
       "custom_css": [
