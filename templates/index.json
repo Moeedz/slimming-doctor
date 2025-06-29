@@ -207,12 +207,46 @@
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
+    },
+    "image_with_text_ryhhwQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "item_KimdVN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/64d3379b32413eb48713bdf0_Smart_Drug.jpg",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Are You Struggling With?",
+            "content": "<h5>Losing weight and keeping it of</h5><h5>Constantly hungry and low in energy</h5><h5>Being overwhelmed with confusing nutritional advise</h5><h5>Getting stuck in a weight loss plateau</h5>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_KimdVN"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "left",
+        "cycle_speed": 4,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
     }
   },
   "order": [
     "custom_liquid_4xn6PC",
     "slideshow_TEPwmb",
     "collection_list_4f8HyH",
-    "image_with_text_fFm8Jd"
+    "image_with_text_fFm8Jd",
+    "image_with_text_ryhhwQ"
   ]
 }
