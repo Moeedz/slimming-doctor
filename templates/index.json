@@ -48,6 +48,8 @@
         "image_cFEW9c": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/test_imge.jpg",
+            "mobile_image": "shopify://shop_images/mobile_test.jpg",
             "text_position": "middle_center",
             "subheading": "",
             "title": "",
@@ -65,6 +67,8 @@
         "image_9CTENF": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/test_imge.jpg",
+            "mobile_image": "shopify://shop_images/mobile_test.jpg",
             "text_position": "middle_center",
             "subheading": "",
             "title": "",
