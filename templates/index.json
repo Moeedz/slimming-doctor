@@ -105,6 +105,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/simple.jpg",
             "subheading": "",
             "title": "",
             "link_text": "",
