@@ -1,1 +1,69 @@
-{"type":"footer","name":"Footer group","sections":{"footer":{"type":"footer","blocks":{"image_zhKMWJ":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Asset-18.png","image_width":150}},"links":{"type":"links","settings":{"menu":"footer"}},"newsletter_WzFQU3":{"type":"newsletter","settings":{"title":"Newsletter","content":"<p>Join our mailing list to get latest updates<\/p>"}},"social_media_XEfPXK":{"type":"social_media","settings":{"title":"Follow us","content":""}}},"block_order":["image_zhKMWJ","links","newsletter_WzFQU3","social_media_XEfPXK"],"custom_css":["p.footer__item-title.heading.heading--small {font-weight: bold !important; font-size: 22px !important;}","li.linklist__item a {font-family: \"Poppins\" !important; text-transform: capitalize !important;}",".footer__item-content a {font-family: \"Poppins\" !important; text-transform: lowercase !important;}",".footer__aside {display: none !important;}","@media screen and (max-width: 767px) {.footer__item-list {display: flex !important; flex-flow: column !important; text-align: -webkit-left !important; }}"],"settings":{"show_payment_icons":true,"enable_follow_on_shop":false,"show_country_selector":false,"show_locale_selector":false}}},"order":["footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "image_zhKMWJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ftr-logo-2-1.png",
+            "image_width": 150
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer"
+          }
+        },
+        "newsletter_WzFQU3": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Newsletter",
+            "content": "<p>Join our mailing list to get latest updates</p>"
+          }
+        },
+        "social_media_XEfPXK": {
+          "type": "social_media",
+          "settings": {
+            "title": "Follow us",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_zhKMWJ",
+        "links",
+        "newsletter_WzFQU3",
+        "social_media_XEfPXK"
+      ],
+      "custom_css": [
+        "p.footer__item-title.heading.heading--small {font-weight: bold !important; font-size: 22px !important;}",
+        "li.linklist__item a {font-family: \"Poppins\" !important; text-transform: capitalize !important;}",
+        ".footer__item-content a {font-family: \"Poppins\" !important; text-transform: lowercase !important;}",
+        ".footer__aside {display: none !important;}",
+        "@media screen and (max-width: 767px) {.footer__item-list {display: flex !important; flex-flow: column !important; text-align: -webkit-left !important; }}"
+      ],
+      "settings": {
+        "show_payment_icons": true,
+        "enable_follow_on_shop": false,
+        "show_country_selector": false,
+        "show_locale_selector": false
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

@@ -29,6 +29,8 @@
         "image_T9EWEm": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/test_imge.jpg",
+            "mobile_image": "shopify://shop_images/mobile_test.jpg",
             "text_position": "middle_center",
             "subheading": "",
             "title": "",
@@ -40,19 +42,55 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 20
+            "overlay_opacity": 0
+          }
+        },
+        "image_cFEW9c": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_9CTENF": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "image_T9EWEm"
+        "image_T9EWEm",
+        "image_cFEW9c",
+        "image_9CTENF"
       ],
       "name": "Slideshow",
       "settings": {
         "section_height": "auto",
         "transition_type": "sweep",
         "autoplay": true,
-        "cycle_speed": 5,
+        "cycle_speed": 4,
         "background": "rgba(0,0,0,0)"
       }
     }
