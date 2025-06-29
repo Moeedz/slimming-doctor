@@ -21,6 +21,21 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
      a.header__linklist-link.link--animated.active {
     color: #37D2D7 !important;
 }
+      @media screen and (min-width: 768px) {
+li.header__linklist-item:has(a.header__linklist-link.link--animated[href="/pages/book-your-free-consultation"]) {
+    left: 300px !important;
+    position: relative !important;
+}
+        a.header__linklist-link.link--animated[href="/pages/book-your-free-consultation"] {
+    background: #ffc000 !important;
+    color: white !important;
+    border-radius: 15px;
+    text-align: -webkit-center !important;
+    padding: 5px 0px !important;
+    font-size: 15px;
+    width: 99%;
+}
+      }
       </style>
 	{% render 'pandectes-rules' %}
 	
