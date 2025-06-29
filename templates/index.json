@@ -106,11 +106,11 @@
           "settings": {
             "collection": "",
             "image": "shopify://shop_images/simple_f3a7f95c-5684-41a0-8514-61df5ae08058.jpg",
-            "subheading": "",
+            "subheading": "LOSS YOUR WEIGHT",
             "title": "",
             "link_text": "",
             "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
+            "text_color": "#000000",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -120,11 +120,11 @@
           "settings": {
             "collection": "",
             "image": "shopify://shop_images/simple_2.jpg",
-            "subheading": "",
+            "subheading": "YOUR DOCTOR",
             "title": "",
             "link_text": "",
             "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
+            "text_color": "#000000",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -134,11 +134,11 @@
           "settings": {
             "collection": "",
             "image": "shopify://shop_images/simple_3.jpg",
-            "subheading": "",
+            "subheading": "GET THE PERFECT PRICES",
             "title": "",
             "link_text": "",
             "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
+            "text_color": "#000000",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
