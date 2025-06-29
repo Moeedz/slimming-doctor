@@ -150,7 +150,8 @@
         "collection_6KehGx"
       ],
       "custom_css": [
-        "p.heading.heading--small {font-size: 24px !important;}"
+        "p.heading.heading--small {font-size: 18px !important;}",
+        "p.heading.heading--small {margin-top: 20rem !important;}"
       ],
       "name": "Collection list",
       "settings": {
