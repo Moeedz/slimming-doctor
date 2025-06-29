@@ -21,6 +21,13 @@
             "image_width": 150
           }
         },
+        "text_Y8Wh44": {
+          "type": "text",
+          "settings": {
+            "title": "ABOUT",
+            "content": "<p>Slimming Doctor is regulated by the Care Quality Commission (CQC). We comply with the best practices outlined by the CQC which guarantees that you receive the highest level of care from us.</p>"
+          }
+        },
         "links_pp6cUt": {
           "type": "links",
           "settings": {
@@ -43,6 +50,7 @@
       },
       "block_order": [
         "image_zhKMWJ",
+        "text_Y8Wh44",
         "links_pp6cUt",
         "links_NAcxte",
         "social_media_XEfPXK"
