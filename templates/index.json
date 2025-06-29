@@ -151,7 +151,8 @@
       ],
       "custom_css": [
         "p.heading.heading--small {font-size: 18px !important;}",
-        "p.heading.heading--small {margin-top: 20rem !important;}"
+        "p.heading.heading--small {margin-top: 20rem !important;}",
+        "@media screen and (max-width: 767px) {p.heading.heading--small {margin-top: 15rem !important;}}"
       ],
       "name": "Collection list",
       "settings": {
