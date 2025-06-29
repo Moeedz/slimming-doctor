@@ -30,7 +30,7 @@
         "text_size": 15,
         "ss_font_family": "montserrat_n4",
         "link": "",
-        "animation_duration": 130,
+        "animation_duration": 100,
         "animation_direction": "right",
         "pause_hover": false,
         "bg": "#37d2d7",
