@@ -388,7 +388,8 @@
             "heading": "<h5>Book Your Appointment Today</h5>",
             "text": "<p>Start your personalized weight loss journey with a trusted slimming doctor. Schedule your consultation now and take the first step toward a healthier you.</p>",
             "button": "BOOK NOW",
-            "button_url": ""
+            "button_url": "",
+            "image": "shopify://shop_images/d-rendering-doctor-cartoon-hand-stethoscope-healthcare-illustration-medical-clip-art-isolated-white-background-211375441-removebg-preview.png"
           }
         }
       },
