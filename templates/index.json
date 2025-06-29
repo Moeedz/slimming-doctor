@@ -111,7 +111,7 @@
             "link_url": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_c6pTyH": {
@@ -124,7 +124,7 @@
             "link_url": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_6KehGx": {
@@ -137,61 +137,19 @@
             "link_url": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_m3EQNz": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_agrCkX": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_hBXwXj": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         }
       },
       "block_order": [
         "collection_z9zXFx",
         "collection_c6pTyH",
-        "collection_6KehGx",
-        "collection_m3EQNz",
-        "collection_agrCkX",
-        "collection_hBXwXj"
+        "collection_6KehGx"
       ],
       "name": "Collection list",
       "settings": {
-        "reveal_on_scroll": false,
-        "layout": "grid",
+        "reveal_on_scroll": true,
+        "layout": "carousel",
         "subheading": "Subheading",
         "title": "Collection list",
         "background": "rgba(0,0,0,0)",
