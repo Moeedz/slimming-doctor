@@ -95,46 +95,121 @@
         "button_text_color": "rgba(0,0,0,0)"
       }
     },
-    "text_with_icons_mMFM7L": {
-      "type": "text-with-icons",
+    "ss_feature_27_Nj8crj": {
+      "type": "ss-feature-27",
       "blocks": {
-        "item_Q6UgxD": {
-          "type": "item",
+        "card_m43Rx4": {
+          "type": "card",
           "settings": {
-            "icon": "picto-box",
-            "custom_icon_width": 50,
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "icon": "atc",
+            "count_from": "1",
+            "count_to": "50",
+            "prefix": "",
+            "suffix": "+",
+            "title": "Team Members",
+            "url": ""
           }
         },
-        "item_WazzxQ": {
-          "type": "item",
+        "card_zaNzpd": {
+          "type": "card",
           "settings": {
-            "icon": "picto-phone",
-            "custom_icon_width": 50,
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+            "icon": "atc",
+            "count_from": "1",
+            "count_to": "500",
+            "prefix": "",
+            "suffix": "+",
+            "title": "Successful Projects",
+            "url": ""
           }
         },
-        "item_ebngtb": {
-          "type": "item",
+        "card_3yM8nw": {
+          "type": "card",
           "settings": {
-            "icon": "picto-email",
-            "custom_icon_width": 50,
-            "title": "Contact us",
-            "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com</p>"
+            "icon": "atc",
+            "count_from": "1",
+            "count_to": "150",
+            "prefix": "",
+            "suffix": "",
+            "title": "Blog Posts",
+            "url": ""
           }
         }
       },
       "block_order": [
-        "item_Q6UgxD",
-        "item_WazzxQ",
-        "item_ebngtb"
+        "card_m43Rx4",
+        "card_zaNzpd",
+        "card_3yM8nw"
       ],
-      "name": "Text with icons",
+      "name": "SS - Feature #27",
       "settings": {
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
+        "heading": "<h2>Feature #27</h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 24,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "cards_per_row": 3,
+        "cards_per_row_mobile": "1",
+        "cards_max_width": 80,
+        "cards_gap": 20,
+        "cards_gap_mobile": 20,
+        "cards_mt": 40,
+        "cards_mt_mobile": 32,
+        "cards_align": "center",
+        "card_padding_horizontal": 20,
+        "card_padding_horizontal_mobile": 20,
+        "card_padding_vertical": 30,
+        "card_padding_vertical_mobile": 30,
+        "card_radius": 10,
+        "card_border_thickness": 0,
+        "card_content_align": "center",
+        "card_content_align_mobile": "center",
+        "icon_width": 52,
+        "icon_width_mobile": 48,
+        "count_custom": false,
+        "count_font": "josefin_sans_n4",
+        "count_size": 36,
+        "count_size_mobile": 32,
+        "count_height": 130,
+        "count_mt": 16,
+        "count_mt_mobile": 16,
+        "count_speed": 1,
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 16,
+        "title_size_mobile": 14,
+        "title_height": 150,
+        "title_mt": 10,
+        "title_mt_mobile": 8,
+        "icon_color": "#000000",
+        "icon_hover_color": "#FFFFFF",
+        "count_color": "#000000",
+        "count_hover_color": "#FFFFFF",
+        "title_color": "#000000",
+        "title_hover_color": "#FFFFFF",
+        "card_bg_color": "#FFFFFF",
+        "card_bg_hover_color": "#000000",
+        "card_border_color": "#000000",
+        "card_border_hover_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#F7F7F7",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
       }
     },
     "ss_image_with_text_9_Ufngdz": {
@@ -401,7 +476,7 @@
     "custom_liquid_4xn6PC",
     "slideshow_TEPwmb",
     "image_with_text_ryhhwQ",
-    "text_with_icons_mMFM7L",
+    "ss_feature_27_Nj8crj",
     "ss_image_with_text_9_Ufngdz",
     "gallery_RQhq9Q",
     "ss_image_with_text_12_rHiV3J",
