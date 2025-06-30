@@ -105,6 +105,12 @@
               </h3>
             {%- endif -%}
 
+            {%- if block.settings.description != blank -%}
+              <div class="richtext text-container" {% if section.settings.transition_type != 'fade' %}reveal{% endif %}>
+                {{ block.settings.description }}
+              </div>
+            {%- endif -%}
+
             {%- capture buttons -%}
               {%- if block.settings.button_1_text != blank -%}
                 <a href="{{ block.settings.button_1_link }}" class="button button--primary">{{ block.settings.button_1_text | escape }}</a>
@@ -344,6 +350,12 @@
           "id": "title",
           "label": "Heading",
           "default": "Slide title"
+        },
+        {
+          "type": "richtext",
+          "id": "description",
+          "label": "Description",
+          "default": "<p>Add your descriptive text here</p>"
         },
         {
           "type": "text",
