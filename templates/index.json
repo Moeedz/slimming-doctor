@@ -51,7 +51,8 @@
         "image_T9EWEm"
       ],
       "custom_css": [
-        ".richtext.text-container p {color: white !important; font-size: 19px !important;}"
+        ".richtext.text-container p {color: white !important; font-size: 19px !important;}",
+        "h3.heading.heading--large {margin-bottom: 14px !important;}"
       ],
       "name": "Slideshow",
       "settings": {
