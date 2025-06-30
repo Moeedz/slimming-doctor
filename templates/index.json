@@ -95,6 +95,48 @@
         "button_text_color": "rgba(0,0,0,0)"
       }
     },
+    "text_with_icons_mMFM7L": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_Q6UgxD": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon_width": 50,
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_WazzxQ": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+          }
+        },
+        "item_ebngtb": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon_width": 50,
+            "title": "Contact us",
+            "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Q6UgxD",
+        "item_WazzxQ",
+        "item_ebngtb"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "ss_image_with_text_9_Ufngdz": {
       "type": "ss-image-with-text-9",
       "blocks": {
@@ -359,6 +401,7 @@
     "custom_liquid_4xn6PC",
     "slideshow_TEPwmb",
     "image_with_text_ryhhwQ",
+    "text_with_icons_mMFM7L",
     "ss_image_with_text_9_Ufngdz",
     "gallery_RQhq9Q",
     "ss_image_with_text_12_rHiV3J",
