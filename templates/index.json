@@ -78,7 +78,7 @@
         "item_KimdVN"
       ],
       "custom_css": [
-        ".image-with-text {background: #EDF1FC;}",
+        ".image-with-text {background: #edf1fc;}",
         "section {margin: 0 !important;}"
       ],
       "name": "Image with text",
@@ -325,56 +325,33 @@
         "lazy": true
       }
     },
-    "text_with_icons_BW7pL7": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_ab7mRc": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "custom_icon_width": 50,
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
-          }
-        },
-        "item_TWbt38": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-phone",
-            "custom_icon_width": 50,
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.</p>"
-          }
-        },
-        "item_rpwW4Q": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "custom_icon_width": 50,
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
-          }
-        },
-        "item_pfzUC9": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-email",
-            "custom_icon_width": 50,
-            "title": "Contact us",
-            "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_ab7mRc",
-        "item_TWbt38",
-        "item_rpwW4Q",
-        "item_pfzUC9"
-      ],
-      "name": "Text with icons",
+    "ss_map_tqKByq": {
+      "type": "ss-map",
+      "name": "SS - Map",
       "settings": {
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
+        "heading": "Our retail store",
+        "address": "<p> Havnegade 12<br> Copenhagen, Denmark </p> <p>  Mon - Thur, 8:30am - 5:30pm <br>  Fri-Sat, 8:30am - 11:30pm<br> Sunday, 8:30am - 4:30pm  </p>",
+        "map_address": "Havnegade 12, Copenhagen, Denmark",
+        "google_map_api_key": "",
+        "show_button": true,
+        "button_text": "Get directions",
+        "lazy_loading": true,
+        "heading_size": 24,
+        "address_size": 18,
+        "button_size": 12,
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "card_background_color": "#ffffff",
+        "btn_text_color": "#ffffff",
+        "btn_background_color": "#000000",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_x": 0,
+        "padding_x_desktop": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "full_width": true,
+        "section_width": 120
       }
     }
   },
@@ -385,6 +362,6 @@
     "ss_image_with_text_9_Ufngdz",
     "gallery_RQhq9Q",
     "ss_image_with_text_12_rHiV3J",
-    "text_with_icons_BW7pL7"
+    "ss_map_tqKByq"
   ]
 }
