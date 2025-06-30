@@ -78,7 +78,6 @@
         "item_KimdVN"
       ],
       "custom_css": [
-        ".image-with-text {background: #edf1fc;}",
         "section {margin: 0 !important;}"
       ],
       "name": "Image with text",
@@ -194,7 +193,7 @@
         "card_border_color": "#000000",
         "card_border_hover_color": "#000000",
         "heading_color": "#000000",
-        "background_color": "#F7F7F7",
+        "background_color": "#edf1fc",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
