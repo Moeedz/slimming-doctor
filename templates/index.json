@@ -58,121 +58,6 @@
         "background": "rgba(0,0,0,0)"
       }
     },
-    "collection_list_4f8HyH": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_z9zXFx": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/simple_f3a7f95c-5684-41a0-8514-61df5ae08058.jpg",
-            "subheading": "LOSS YOUR WEIGHT",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_c6pTyH": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/simple_2.jpg",
-            "subheading": "YOUR DOCTOR",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_6KehGx": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/simple_3.jpg",
-            "subheading": "GET THE PERFECT PRICES",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "collection_z9zXFx",
-        "collection_c6pTyH",
-        "collection_6KehGx"
-      ],
-      "custom_css": [
-        "p.heading.heading--small {font-size: 18px !important;}",
-        "@media screen and (min-width: 768px) {p.heading.heading--small {margin-top: 20rem !important; }}",
-        "@media screen and (max-width: 767px) {p.heading.heading--small {margin-top: 15rem !important; }}"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "reveal_on_scroll": true,
-        "layout": "carousel",
-        "subheading": "",
-        "title": "",
-        "background": "#ecf1fc",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "image_with_text_fFm8Jd": {
-      "type": "image-with-text",
-      "blocks": {
-        "item_3NrzmN": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/simple_4.jpg",
-            "tab_label": "",
-            "subheading": "",
-            "title": "Are You Struggling With?",
-            "content": "<h5>Losing weight and keeping it of</h5><h5>Constantly hungry and low in energy</h5><h5>Being overwhelmed with confusing nutritional advise</h5><h5>Getting stuck in a weight loss plateau</h5>",
-            "button_text": "",
-            "button_link": ""
-          }
-        },
-        "item_hXrBbj": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/simple_4_e8aa8156-c8aa-45d5-9e63-c789417fe968.jpg",
-            "tab_label": "",
-            "subheading": "",
-            "title": "Expert Weight Loss. Real Results.",
-            "content": "<ul><li><h5>Led by a qualified slimming specialist, we help you lose weight safely and sustainably—because your health deserves expert care.</h5></li><li><h5>With our doctor-guided weight loss and wellness programs, you're not just shedding pounds—you're gaining energy, confidence, and control.</h5></li></ul>",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_3NrzmN",
-        "item_hXrBbj"
-      ],
-      "custom_css": [
-        ".image-with-text__image-wrapper {border-radius: 5rem; border: 1px solid;}"
-      ],
-      "name": "Image with text",
-      "settings": {
-        "reveal_on_scroll": true,
-        "background_type": "full_width",
-        "background_overlap": "text",
-        "image_position": "left",
-        "text_alignment": "center",
-        "cycle_speed": 4,
-        "accent_background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
     "image_with_text_ryhhwQ": {
       "type": "image-with-text",
       "blocks": {
@@ -193,15 +78,15 @@
         "item_KimdVN"
       ],
       "custom_css": [
-        ".image-with-text__image-wrapper {border-radius: 5rem; border: 1px solid;}"
+        ".image-with-text {background: #ecf1fc;}"
       ],
       "name": "Image with text",
       "settings": {
         "reveal_on_scroll": true,
         "background_type": "full_width",
         "background_overlap": "image",
-        "image_position": "right",
-        "text_alignment": "center",
+        "image_position": "left",
+        "text_alignment": "left",
         "cycle_speed": 4,
         "accent_background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
@@ -495,8 +380,6 @@
   "order": [
     "custom_liquid_4xn6PC",
     "slideshow_TEPwmb",
-    "collection_list_4f8HyH",
-    "image_with_text_fFm8Jd",
     "image_with_text_ryhhwQ",
     "ss_image_with_text_9_Ufngdz",
     "gallery_RQhq9Q",
