@@ -78,7 +78,7 @@
         "item_KimdVN"
       ],
       "custom_css": [
-        ".image-with-text {background: #ecf1fc;}",
+        ".image-with-text {background: #EDF1FC;}",
         "section {margin: 0 !important;}"
       ],
       "name": "Image with text",
