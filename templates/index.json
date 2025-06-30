@@ -68,7 +68,7 @@
             "tab_label": "",
             "subheading": "",
             "title": "Slim Down. Feel Strong. Live Well.",
-            "content": "<h5>Trusted by thousands, our slimming doctor guides you with personalized weight loss plans and holistic wellness strategies that truly work.</h5>",
+            "content": "<ul><li>1</li><li>2</li><li>3</li></ul>",
             "button_text": "",
             "button_link": ""
           }
@@ -330,7 +330,7 @@
       "name": "SS - Map",
       "settings": {
         "heading": "Our retail store",
-        "address": "<p> Havnegade 12<br> Copenhagen, Denmark </p> <p>  Mon - Thur, 8:30am - 5:30pm <br>  Fri-Sat, 8:30am - 11:30pm<br> Sunday, 8:30am - 4:30pm  </p>",
+        "address": "<p> Havnegade 12<br/> Copenhagen, Denmark </p><p>  Mon - Thur, 8:30am - 5:30pm <br/>  Fri-Sat, 8:30am - 11:30pm<br/> Sunday, 8:30am - 4:30pm  </p>",
         "map_address": "Havnegade 12, Copenhagen, Denmark",
         "google_map_api_key": "",
         "show_button": true,
