@@ -106,7 +106,7 @@
             {%- endif -%}
 
             {%- if block.settings.description != blank -%}
-              <div class="richtext text-container" {% if section.settings.transition_type != 'fade' %}reveal{% endif %}>
+              <div class="richtext text-container" {% if section.settings.transition_type != 'sweep' %}sweep{% endif %}>
                 {{ block.settings.description }}
               </div>
             {%- endif -%}
