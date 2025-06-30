@@ -77,9 +77,7 @@
       "block_order": [
         "item_KimdVN"
       ],
-      "custom_css": [
-        "section {margin: 0 !important;}"
-      ],
+      "custom_css": [],
       "name": "Image with text",
       "settings": {
         "reveal_on_scroll": true,
