@@ -28,6 +28,7 @@
       "blocks": {
         "top_e9Pnh7": {
           "type": "top",
+          "disabled": true,
           "settings": {
             "left_sub_title": "INSTAGRAM",
             "left_sub_title_url": "",
@@ -179,7 +180,7 @@
         "heading_size_mobile": 98,
         "heading_height": 130,
         "heading_height_mobile": 100,
-        "heading_align": "center",
+        "heading_align": "left",
         "sub_heading": "<h2>digital goods</h2>",
         "sub_heading_custom": true,
         "sub_heading_font": "libelle_n4",
