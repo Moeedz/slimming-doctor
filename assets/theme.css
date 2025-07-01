@@ -7238,7 +7238,7 @@ input:checked + .popover__choice-label:is(:lang(ae), :lang(ar), :lang(arc), :lan
   }
 
   .contact__form {
-    max-width: 460px;
+    max-width: 790px;
     margin-inline-start: auto;
     margin-inline-end: auto;
   }
