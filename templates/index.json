@@ -106,11 +106,11 @@
           "settings": {
             "icon": "atc",
             "custom_icon": "shopify://shop_images/1.png",
-            "count_from": "1",
-            "count_to": "50",
+            "count_from": "",
+            "count_to": "",
             "prefix": "",
-            "suffix": "+",
-            "title": "Team Members",
+            "suffix": "",
+            "title": "Appetite Suppressant",
             "url": ""
           }
         },
@@ -119,11 +119,11 @@
           "settings": {
             "icon": "atc",
             "custom_icon": "shopify://shop_images/2.png",
-            "count_from": "1",
-            "count_to": "500",
+            "count_from": "",
+            "count_to": "",
             "prefix": "",
-            "suffix": "+",
-            "title": "Successful Projects",
+            "suffix": "",
+            "title": "Personalised Weight Loss Programmes",
             "url": ""
           }
         },
@@ -132,11 +132,11 @@
           "settings": {
             "icon": "atc",
             "custom_icon": "shopify://shop_images/3.png",
-            "count_from": "1",
-            "count_to": "150",
+            "count_from": "",
+            "count_to": "",
             "prefix": "",
             "suffix": "",
-            "title": "Blog Posts",
+            "title": "Weight Maintenance Support",
             "url": ""
           }
         }
@@ -166,7 +166,7 @@
         "cards_align": "center",
         "card_padding_horizontal": 20,
         "card_padding_horizontal_mobile": 20,
-        "card_padding_vertical": 30,
+        "card_padding_vertical": 22,
         "card_padding_vertical_mobile": 30,
         "card_radius": 10,
         "card_border_thickness": 0,
@@ -193,10 +193,10 @@
         "icon_hover_color": "#ffffff",
         "count_color": "#000000",
         "count_hover_color": "#ffffff",
-        "title_color": "#000000",
+        "title_color": "#17224d",
         "title_hover_color": "#ffffff",
         "card_bg_color": "#ffffff",
-        "card_bg_hover_color": "#000000",
+        "card_bg_hover_color": "#43a0ed",
         "card_border_color": "#000000",
         "card_border_hover_color": "#000000",
         "heading_color": "#17224d",
