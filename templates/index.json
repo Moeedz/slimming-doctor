@@ -73,7 +73,8 @@
             "heading": "<p><strong>Heading</strong></p>",
             "text": "<ul><li>Point 1 comes here</li><li>Point 2 comes here</li><li>Point 3 comes here</li><li>Point 4 comes here </li></ul>",
             "button": "",
-            "button_url": ""
+            "button_url": "",
+            "image": "shopify://shop_images/64d3379b32413eb48713bdf0_Smart_Drug.jpg"
           }
         }
       },
@@ -85,7 +86,7 @@
       ],
       "name": "SS - Image With Text #12",
       "settings": {
-        "slide_gap": 70,
+        "slide_gap": 82,
         "slide_gap_mobile": 24,
         "content_horizontal_align": "start",
         "content_horizontal_align_mobile": "center",
@@ -119,7 +120,7 @@
         "images_position_mobile": "top",
         "image_ratio": "square",
         "image_ratio_mobile": "square",
-        "image_shape": "1",
+        "image_shape": "3",
         "image_radius": 0,
         "image_border_thickness": 0,
         "number_custom": false,
@@ -185,6 +186,7 @@
       "block_order": [
         "item_KimdVN"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "Image with text",
       "settings": {
