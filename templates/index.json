@@ -73,8 +73,8 @@
             "image": "shopify://shop_images/64d3379b32413eb48713bdf0_Smart_Drug.jpg",
             "tab_label": "",
             "subheading": "",
-            "title": "Slim Down. Feel Strong. Live Well.",
-            "content": "<ul><li>1</li><li>2</li><li>3</li></ul>",
+            "title": "Heading",
+            "content": "<ul><li>Point 1 comes here</li><li>Point 2 comes here</li><li>Point 3 comes here</li><li>Point 4 comes here</li></ul>",
             "button_text": "",
             "button_link": ""
           }
