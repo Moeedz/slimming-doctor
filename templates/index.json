@@ -147,7 +147,8 @@
         "card_3yM8nw"
       ],
       "custom_css": [
-        ".feature-icon-template--25584141173074__ss_feature_27_Nj8crj {background: white !important; border-radius: 100% !important;}"
+        ".feature-icon-template--25584141173074__ss_feature_27_Nj8crj {background: #edf1fc !important; border-radius: 100% !important;}",
+        ".feature-card-template--25584141173074__ss_feature_27_Nj8crj {box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.1);}"
       ],
       "name": "SS - Feature #27",
       "settings": {
