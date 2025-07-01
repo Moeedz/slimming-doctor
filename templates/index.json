@@ -147,7 +147,7 @@
         "card_3yM8nw"
       ],
       "custom_css": [
-        ".feature-icon-template--25584141173074__ss_feature_27_Nj8crj {background: #edf1fc !important; border-radius: 100% !important;}",
+        ".feature-icon-template--25584141173074__ss_feature_27_Nj8crj {background: #edf1fc !important; border-radius: 100% !important; padding: 9px;}",
         ".feature-card-template--25584141173074__ss_feature_27_Nj8crj {box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.1);}"
       ],
       "name": "SS - Feature #27",
@@ -176,7 +176,7 @@
         "card_border_thickness": 0,
         "card_content_align": "center",
         "card_content_align_mobile": "center",
-        "icon_width": 78,
+        "icon_width": 70,
         "icon_width_mobile": 70,
         "count_custom": false,
         "count_font": "josefin_sans_n4",
