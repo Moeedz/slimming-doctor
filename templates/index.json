@@ -64,6 +64,47 @@
         "background": "rgba(0,0,0,0)"
       }
     },
+    "slideshow_MWcUy7": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Xap4F3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/two-girls-sharing-light-snacks-in-kitchen-2022-12-01-05-34-07-utc-Recovered_653a5163-c6a3-4228-ad63-83a7b228f8ff.jpg",
+            "mobile_image": "shopify://shop_images/eaeafaf_03b42547-3fa0-44db-b35c-b207a327a5a7.jpg",
+            "text_position": "top_center",
+            "subheading": "",
+            "title": "Heading",
+            "description": "<p>All the description of the slideshow comes here</p>",
+            "button_1_text": "Button",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#37d2d7",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_Xap4F3"
+      ],
+      "custom_css": [
+        ".richtext.text-container p {color: white !important; font-size: 19px !important;}",
+        "h3.heading.heading--large {margin-bottom: 14px !important;}",
+        ".richtext.text-container {padding-bottom: 20px;}"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 4,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
     "image_with_text_ryhhwQ": {
       "type": "image-with-text",
       "blocks": {
@@ -536,6 +577,7 @@
   "order": [
     "custom_liquid_4xn6PC",
     "slideshow_TEPwmb",
+    "slideshow_MWcUy7",
     "image_with_text_ryhhwQ",
     "ss_feature_27_Nj8crj",
     "ss_image_with_text_9_Ufngdz",
