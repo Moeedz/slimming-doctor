@@ -146,6 +146,9 @@
         "card_zaNzpd",
         "card_3yM8nw"
       ],
+      "custom_css": [
+        ".feature-icon-template--25584141173074__ss_feature_27_Nj8crj {background: white !important; border-radius: 100% !important;}"
+      ],
       "name": "SS - Feature #27",
       "settings": {
         "heading": "<h2>Heading</h2>",
@@ -184,7 +187,7 @@
         "count_speed": 1,
         "title_custom": false,
         "title_font": "josefin_sans_n4",
-        "title_size": 16,
+        "title_size": 26,
         "title_size_mobile": 14,
         "title_height": 150,
         "title_mt": 10,
