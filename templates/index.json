@@ -80,7 +80,8 @@
       "custom_css": [
         ".richtext.text-container p {color: white !important; font-size: 19px !important;}",
         "h3.heading.heading--large {margin-bottom: 14px !important;}",
-        ".richtext.text-container {padding-bottom: 20px;}"
+        ".richtext.text-container {padding-bottom: 20px;}",
+        ".content-box {padding-top: 30px;}"
       ],
       "name": "Slideshow",
       "settings": {
