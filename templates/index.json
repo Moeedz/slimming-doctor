@@ -40,8 +40,8 @@
             "button_2_text": "",
             "button_2_link": "",
             "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
+            "button_background": "#37d2d7",
+            "button_text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 40
           }
@@ -53,7 +53,7 @@
       "custom_css": [
         ".richtext.text-container p {color: white !important; font-size: 19px !important;}",
         "h3.heading.heading--large {margin-bottom: 14px !important;}",
-        ".richtext.text-container {padding-bottom: 20px; }"
+        ".richtext.text-container {padding-bottom: 20px;}"
       ],
       "name": "Slideshow",
       "settings": {
