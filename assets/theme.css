@@ -1272,7 +1272,7 @@ p a:not(.button), .rte a:not(.button), .link {
 }
 
 .section {
-  margin: var(--vertical-breather) 0;
+  /* margin: var(--vertical-breather) 0; */
   display: block;
 }
 
