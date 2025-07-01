@@ -237,7 +237,7 @@
             "text_mt": 0,
             "text_align": "left",
             "text_align_mobile": "left",
-            "text_color": "#2b1a1a"
+            "text_color": "#ffffff"
           }
         },
         "icon_text_CTbqcA": {
@@ -294,8 +294,8 @@
         "text_size_mobile": 16,
         "text_height": 180,
         "icon_color": "#aa131d",
-        "text_color": "#2b1a1a",
-        "background_color": "#ffd996",
+        "text_color": "#ffffff",
+        "background_color": "#17224d",
         "border_color": "#000000",
         "margin_top": 0,
         "margin_bottom": 0,
