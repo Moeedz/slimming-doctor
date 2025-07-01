@@ -35,7 +35,7 @@
             "subheading": "",
             "title": "Heading",
             "description": "<p>All the description of the slideshow comes here</p>",
-            "button_1_text": "",
+            "button_1_text": "Button",
             "button_1_link": "",
             "button_2_text": "",
             "button_2_link": "",
@@ -52,7 +52,8 @@
       ],
       "custom_css": [
         ".richtext.text-container p {color: white !important; font-size: 19px !important;}",
-        "h3.heading.heading--large {margin-bottom: 14px !important;}"
+        "h3.heading.heading--large {margin-bottom: 14px !important;}",
+        ".richtext.text-container {padding-bottom: 20px; }"
       ],
       "name": "Slideshow",
       "settings": {
