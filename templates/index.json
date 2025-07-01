@@ -9,27 +9,13 @@
  */
 {
   "sections": {
-    "custom_liquid_4xn6PC": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "name": "Custom Liquid",
-      "settings": {
-        "subheading": "",
-        "title": "Have a Task for us?",
-        "liquid": "<sk-form><script type=\"application/json\" sk-forms data-id=\"3772525878393235\">{{ shop.metafields.squadkin_form[\"3772525878393235\"] }}</script><style sk-global-css>{{ shop.metafields.squadkin.sk_global_css }}</style><div class=\"sk-form\" sk-form-block data-token=\"3772525878393235\"></div></sk-form>\n\n<style>\ndiv#shopify-section-template--24694647062818__custom_liquid_4xn6PC header.section__header.text-container {\n    margin-bottom: 0 !important;\n}\n@media screen and (min-width: 768px) {\ndiv#shopify-section-template--24694647062818__custom_liquid_4xn6PC h3.heading.h2 {\n    font-size: 40px !important;\n    padding-top: 35px !important;\n    margin-bottom: -20px !important;\n}\n}\nfooter.footer {\n    margin-top: 40px !important;\n}\n</style>",
-        "add_vertical_spacing": false,
-        "background_type": "full_width",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
     "slideshow_TEPwmb": {
       "type": "slideshow",
       "blocks": {
         "image_T9EWEm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/two-girls-sharing-light-snacks-in-kitchen-2022-12-01-05-34-07-utc-Recovered_653a5163-c6a3-4228-ad63-83a7b228f8ff.jpg",
+            "image": "shopify://shop_images/two-girls-sharing-light-snacks-in-kitchen-2022-12-01-05-34-07-utc-Recovered_8536f0a9-2c46-4ddf-a62c-244012b726a1.jpg",
             "mobile_image": "shopify://shop_images/eaeafaf_03b42547-3fa0-44db-b35c-b207a327a5a7.jpg",
             "text_position": "middle_left",
             "subheading": "",
@@ -434,16 +420,16 @@
         "button_style": "non_outline",
         "image_border_color": "#17224d",
         "circle_number_bg_color": "#17224d",
-        "number_color": "#FFFFFF",
+        "number_color": "#ffffff",
         "text_color": "#000000",
-        "button_color": "#FFFFFF",
-        "button_hover_color": "#FFFFFF",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
         "button_bg_color": "#17224d",
         "button_bg_hover_color": "#000000",
         "button_border_color": "#000000",
         "button_border_hover_color": "#000000",
         "heading_color": "#17224d",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -575,7 +561,6 @@
     }
   },
   "order": [
-    "custom_liquid_4xn6PC",
     "slideshow_TEPwmb",
     "slideshow_MWcUy7",
     "image_with_text_ryhhwQ",
