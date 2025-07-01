@@ -29,7 +29,7 @@
         "image_T9EWEm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/two-girls-sharing-light-snacks-in-kitchen-2022-12-01-05-34-07-utc-Recovered.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-01_at_23.50.51_447b9ae7.jpg",
             "mobile_image": "shopify://shop_images/mobile_test.jpg",
             "text_position": "middle_left",
             "subheading": "",
@@ -43,7 +43,7 @@
             "button_background": "#37d2d7",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 50
+            "overlay_opacity": 0
           }
         }
       },
