@@ -57,7 +57,7 @@
       ],
       "name": "Slideshow",
       "settings": {
-        "section_height": "large",
+        "section_height": "medium",
         "transition_type": "sweep",
         "autoplay": true,
         "cycle_speed": 4,
