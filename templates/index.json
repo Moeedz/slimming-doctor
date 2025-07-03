@@ -457,14 +457,14 @@
     "ss_testimonial_slider_6iEMyV": {
       "type": "ss-testimonial-slider",
       "blocks": {
-        "quote_cqaqjT": {
+        "quote_K8YxtY": {
           "type": "quote",
           "settings": {
             "subheading": "FROM OUR CUSTOMERS",
             "rating": 5,
-            "quote": "<p>I gained 2 stones during pregnancy and found it difficult to lose until quite recently. Dr.Aasim supported me with in losing this weight through a personalised diet plan. His knowledge towards a healthy weight loss plan is something that helped me stay on track.</p>",
-            "author": "Nadia Aziz",
-            "image": "shopify://shop_images/nadia.jpg"
+            "quote": "<p>I have lost over a stone in a few weeks. Excellent service and advice. Highly recommended </p>",
+            "author": "Valeria Berry",
+            "image": "shopify://shop_images/angreiz.jpg"
           }
         },
         "quote_q3Bch9": {
@@ -477,20 +477,21 @@
             "image": "shopify://shop_images/Moosa.jpg"
           }
         },
-        "quote_K8YxtY": {
+        "quote_cqaqjT": {
           "type": "quote",
           "settings": {
             "subheading": "FROM OUR CUSTOMERS",
             "rating": 5,
-            "quote": "<p>I have lost over a stone in a few weeks. Excellent service and advice. Highly recommended </p>",
-            "author": "Valeria Berry"
+            "quote": "<p>I gained 2 stones during pregnancy and found it difficult to lose until quite recently. Dr.Aasim supported me with in losing this weight through a personalised diet plan. His knowledge towards a healthy weight loss plan is something that helped me stay on track.</p>",
+            "author": "Nadia Aziz",
+            "image": "shopify://shop_images/nadia.jpg"
           }
         }
       },
       "block_order": [
-        "quote_cqaqjT",
+        "quote_K8YxtY",
         "quote_q3Bch9",
-        "quote_K8YxtY"
+        "quote_cqaqjT"
       ],
       "name": "SS - Testimonial slider",
       "settings": {
