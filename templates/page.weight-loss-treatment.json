@@ -23,10 +23,11 @@
         "item_d7Nbdk": {
           "type": "item",
           "settings": {
-            "tab_label": "Item",
-            "subheading": "Subheading",
-            "title": "Image with text",
-            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.</p>",
+            "image": "shopify://shop_images/healthy-food-1024x683.jpg",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Personalised weight loss plans that work for you.",
+            "content": "<p>Our weight loss treatment is a bespoke program based on your individual requirements. Here at Slimming Doctor, we understand your Journey. Our specialist doctor is here to help achieve your healthier weight with a supportive approach which will work for you.</p>",
             "button_text": "",
             "button_link": ""
           }
@@ -118,12 +119,12 @@
         "text_mt": 8,
         "text_mt_mobile": 8,
         "steps_color": "#121212",
-        "steps_bg_color": "#FFFFFF",
+        "steps_bg_color": "#ffffff",
         "steps_border_color": "#121212",
         "title_color": "#121212",
         "text_color": "#121212",
         "image_border_color": "#121212",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#121212",
         "margin_top": 0,
