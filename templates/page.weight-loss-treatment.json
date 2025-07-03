@@ -48,7 +48,7 @@
         "text_alignment": "left",
         "cycle_speed": 8,
         "accent_background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
+        "text_color": "#17224d",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
@@ -60,7 +60,7 @@
           "type": "step",
           "settings": {
             "step": "STEP 1",
-            "title": "FREE 1:1 Consultation",
+            "title": "<b>FREE 1:1 Consultation</b>",
             "text": "<p>Starting something new can often bring feelings of hesitation and anxiety—we understand that completely. That’s why we offer a free 1:1 consultation, giving you the opportunity to visit our clinic and speak directly with our doctor. During this consultation, your doctor will assess your needs and discuss the weight loss program options best suited to you.</p>"
           }
         },
@@ -68,7 +68,7 @@
           "type": "step",
           "settings": {
             "step": "STEP 2",
-            "title": "Start Your Personalised Treatment Program",
+            "title": "<b>Start Your Personalised Treatment Program</b>",
             "text": "<p>YOUR TREATMENT PROGRAM</p><p>Your doctor will now suggest a medication plan suitable for your needs after carefully considering your lifestyle, diet and your health.</p><p>Weight Loss Medications:</p><p>You may already know that nothing beats eating a well-balanced diet and regular exercising to manage weight loss, however certain medications have proven to be powerful adjuncts in helping with weight loss effectively. Additionally, these are foods, supplements or a medication that reduces hunger.</p><p>At Slimming Doctor, we offer a comprehensive range of weight loss treatments tailored to your individual needs. Our options include GLP-1 medications such as <strong>Mounjaro </strong>and <strong>Wegovy</strong>, as well as appetite suppressants like Phentermine and Diethylpropion. Following a thorough assessment with our experienced doctor, we prescribe these medications on a named-patient basis, ensuring they are carefully selected to suit your specific health profile.</p><p>With personalised care and expert guidance, you can trust Slimming Doctor to provide effective solutions that support your weight loss journey. </p>"
           }
         },
@@ -76,7 +76,7 @@
           "type": "step",
           "settings": {
             "step": "STEP 3",
-            "title": "Follow Up Reviews with the Doctor",
+            "title": "<b>Follow Up Reviews with the Doctor</b>",
             "text": "<p>Your doctor will be working with you  every step of the way. Our weight management program combines carefully prescribed weight loss medications with professional guidance and regular reviews, ensuring a personalized approach designed specifically for you.</p>"
           }
         }
@@ -124,10 +124,10 @@
         "text_height": 150,
         "text_mt": 8,
         "text_mt_mobile": 8,
-        "steps_color": "#121212",
-        "steps_bg_color": "#ffffff",
-        "steps_border_color": "#121212",
-        "title_color": "#121212",
+        "steps_color": "#ffffff",
+        "steps_bg_color": "#3393f0",
+        "steps_border_color": "#3393f0",
+        "title_color": "#17224d",
         "text_color": "#121212",
         "image_border_color": "#121212",
         "background_color": "#ffffff",
