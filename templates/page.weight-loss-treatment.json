@@ -95,6 +95,7 @@
         "layout_mobile": "image_content",
         "layout_gap": 100,
         "layout_gap_mobile": 32,
+        "image": "shopify://shop_images/consultation.jpg",
         "image_radius": 0,
         "image_border_thickness": 0,
         "image_ratio": "portrait",
