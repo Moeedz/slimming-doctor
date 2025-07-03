@@ -78,7 +78,7 @@
             "currency": "£",
             "time": "£2.68 per day",
             "elements": "<ul><li>Bullet Point 1 comes here</li><li>Bullet Point 2 comes here</li><li>Bullet Point 3 comes here</li><li>Bullet Point 4 comes here</li><li>Bullet Point 5 comes here</li></ul>",
-            "button_text": "Buy Basic",
+            "button_text": "Get Started",
             "button_url": "https://section.store/cart/add?id=43313928601849",
             "Text": "",
             "active": true
@@ -87,14 +87,14 @@
         "item_b9wdyw": {
           "type": "item",
           "settings": {
-            "budges": "Best Value",
-            "heading": "PREMIUM",
+            "budges": "Best Results",
+            "heading": "12 week programme",
             "price_sale": "",
-            "price": "69",
-            "currency": "$",
-            "time": "Per Person",
+            "price": "200",
+            "currency": "£",
+            "time": "£2.38 per day",
             "elements": "<ul><li>Bullet Point 1 comes here</li><li>Bullet Point 2 comes here</li><li>Bullet Point 3 comes here</li><li>Bullet Point 4 comes here</li><li>Bullet Point 5 comes here</li></ul>",
-            "button_text": "Buy Premium",
+            "button_text": "Get Started",
             "button_url": "https://section.store/cart/add?id=43313928601849",
             "Text": "",
             "active": false
