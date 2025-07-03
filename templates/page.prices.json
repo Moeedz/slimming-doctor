@@ -23,6 +23,7 @@
         "item_YLt66k": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/d.jpg",
             "tab_label": "",
             "subheading": "",
             "title": "Where Quality Meets Affordability",
