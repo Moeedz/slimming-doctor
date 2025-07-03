@@ -236,7 +236,9 @@
       "block_order": [
         "item_KimdVN"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "@media screen and (max-width: 767px) {.image-with-text__content-wrapper {padding-left: 35px !important;}}"
+      ],
       "name": "Image with text",
       "settings": {
         "reveal_on_scroll": true,
