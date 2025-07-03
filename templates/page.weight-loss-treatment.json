@@ -37,7 +37,7 @@
         "item_d7Nbdk"
       ],
       "custom_css": [
-        "@media screen and (min-width: 768px) {.image-with-text {padding-top: 40px;}}"
+        "@media screen and (min-width: 768px) {.image-with-text {padding-top: 40px; }}"
       ],
       "name": "Image with text",
       "settings": {
@@ -139,7 +139,7 @@
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5,
         "full_width": false,
-        "content_width": 1400,
+        "content_width": 1300,
         "border_thickness": 0,
         "section_radius": 0,
         "lazy": true
