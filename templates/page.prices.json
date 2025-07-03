@@ -177,6 +177,8 @@
         "elements_mt": 38,
         "elements_gap": 16,
         "icon_size": 20,
+        "elements_icon": "shopify://shop_images/icons8-checkmark.svg",
+        "elements_active_icon": "shopify://shop_images/iconizer-icons8-checkmark.svg",
         "button_custom": false,
         "button_font": "josefin_sans_n4",
         "button_size": 16,
