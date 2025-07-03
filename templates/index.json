@@ -61,9 +61,9 @@
             "mobile_image": "shopify://shop_images/eaeafaf_03b42547-3fa0-44db-b35c-b207a327a5a7.jpg",
             "text_position": "top_left",
             "subheading": "",
-            "title": "Heading",
-            "description": "<p>All the description of the slideshow comes here</p>",
-            "button_1_text": "Button",
+            "title": "Start Your Weight Loss Journey with Confidence",
+            "description": "<p>We know weight loss isn’t always as simple as “eat less, move more.” It can feel confusing and frustrating. That’s where we come in to guide you step by step, with expert support and a plan that actually fits your life.</p>",
+            "button_1_text": "Book a free consultation",
             "button_1_link": "",
             "button_2_text": "",
             "button_2_link": "",
@@ -79,8 +79,8 @@
         "image_Xap4F3"
       ],
       "custom_css": [
-        ".richtext.text-container p {color: white !important; font-size: 19px !important;}",
-        "h3.heading.heading--large {margin-bottom: 14px !important;}",
+        ".richtext.text-container p {color: white !important; font-size: 13.5px !important;}",
+        "h3.heading.heading--large {margin-bottom: 14px !important; font-size: 21px;}",
         ".richtext.text-container {padding-bottom: 20px;}",
         ".content-box {padding-top: 30px;}"
       ],
