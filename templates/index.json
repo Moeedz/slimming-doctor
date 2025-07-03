@@ -562,8 +562,8 @@
         "text_2_text": "",
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
+        "button_background": "#419eed",
+        "button_text_color": "#ffffff"
       }
     }
   },
