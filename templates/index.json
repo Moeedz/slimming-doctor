@@ -343,18 +343,21 @@
         "step_pKP3nj": {
           "type": "step",
           "settings": {
+            "image": "shopify://shop_images/imgonline-com-ua-compressed-Fj99t1STL6.jpg",
             "text": "<h1>FREE 1:1 Consultation</h1><p>Speak directly with a healthcare expert to discuss your concerns.</p>"
           }
         },
         "step_iRGtb6": {
           "type": "step",
           "settings": {
+            "image": "shopify://shop_images/imgonline-com-ua-compressed-3CfaCCoy92d.jpg",
             "text": "<h1><strong>Personalised Treatment Plan</strong></h1><p>Receive a treatment plan designed around your goals and lifestyle.<br/></p>"
           }
         },
         "step_7dkTkL": {
           "type": "step",
           "settings": {
+            "image": "shopify://shop_images/3b54d929fa.jpg",
             "text": "<h1>Follow Up</h1><p>Track your progress and make adjustments with your doctor.</p>"
           }
         }
@@ -386,8 +389,8 @@
         "slider_gap_mobile": 20,
         "image_radius": 16,
         "image_border_thickness": 2,
-        "image_ratio": "square",
-        "image_ratio_mobile": "square",
+        "image_ratio": "original",
+        "image_ratio_mobile": "original",
         "circle_number_size": 40,
         "circle_number_size_mobile": 40,
         "number_custom": false,
