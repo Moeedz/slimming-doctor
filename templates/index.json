@@ -237,7 +237,7 @@
         "item_KimdVN"
       ],
       "custom_css": [
-        "@media screen and (max-width: 767px) {.image-with-text__content-wrapper {padding-left: 35px !important;}}"
+        "@media screen and (max-width: 767px) {.image-with-text__content-wrapper {padding-left: 35px !important; }}"
       ],
       "name": "Image with text",
       "settings": {
@@ -463,7 +463,8 @@
             "subheading": "FROM OUR CUSTOMERS",
             "rating": 5,
             "quote": "<p>I gained 2 stones during pregnancy and found it difficult to lose until quite recently. Dr.Aasim supported me with in losing this weight through a personalised diet plan. His knowledge towards a healthy weight loss plan is something that helped me stay on track.</p>",
-            "author": "Nadia Aziz"
+            "author": "Nadia Aziz",
+            "image": "shopify://shop_images/nadia.jpg"
           }
         },
         "quote_q3Bch9": {
@@ -472,7 +473,8 @@
             "subheading": "FROM OUR CUSTOMERS",
             "rating": 5,
             "quote": "<p>I met Dr aasim 2 years ago and his medical knowledge with regards to nutrition and weightloss is excellent. His advice to me based on consultation with me was throtough. He assisted me with a diet plan. Explaining importance of a healthy life style and the different food groups.The best decision I made to consult with him</p>",
-            "author": "Mohamed Moosa"
+            "author": "Mohamed Moosa",
+            "image": "shopify://shop_images/Moosa.jpg"
           }
         },
         "quote_K8YxtY": {
