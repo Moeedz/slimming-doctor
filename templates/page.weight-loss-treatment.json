@@ -15,9 +15,135 @@
         "show_title": true,
         "page_width": "medium"
       }
+    },
+    "image_with_text_XmaPg4": {
+      "type": "image-with-text",
+      "blocks": {
+        "item_d7Nbdk": {
+          "type": "item",
+          "settings": {
+            "tab_label": "Item",
+            "subheading": "Subheading",
+            "title": "Image with text",
+            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.</p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_d7Nbdk"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ss_steps_11_qL3bTm": {
+      "type": "ss-steps-11",
+      "blocks": {
+        "step_4RDRJb": {
+          "type": "step",
+          "settings": {
+            "step": "STEP",
+            "title": "Step title",
+            "text": "<p>Add detailed descriptions here.</p>"
+          }
+        },
+        "step_QdG68U": {
+          "type": "step",
+          "settings": {
+            "step": "STEP",
+            "title": "Step title",
+            "text": "<p>Add detailed descriptions here.</p>"
+          }
+        },
+        "step_6Mz94b": {
+          "type": "step",
+          "settings": {
+            "step": "STEP",
+            "title": "Step title",
+            "text": "<p>Add detailed descriptions here.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "step_4RDRJb",
+        "step_QdG68U",
+        "step_6Mz94b"
+      ],
+      "name": "SS - Steps #11",
+      "settings": {
+        "layout": "image_content",
+        "layout_mobile": "image_content",
+        "layout_gap": 64,
+        "layout_gap_mobile": 32,
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "portrait",
+        "steps_custom": false,
+        "steps_font": "josefin_sans_n4",
+        "steps_size": 12,
+        "steps_size_mobile": 12,
+        "steps_height": 100,
+        "steps_padding_horizontal": 8,
+        "steps_padding_horizontal_mobile": 8,
+        "steps_padding_vertical": 4,
+        "steps_padding_vertical_mobile": 4,
+        "steps_radius": 100,
+        "steps_border_thickness": 1,
+        "steps_content_align": "left",
+        "steps_content_align_mobile": "left",
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 24,
+        "title_size_mobile": 20,
+        "title_height": 130,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 14,
+        "text_size_mobile": 12,
+        "text_height": 150,
+        "text_mt": 8,
+        "text_mt_mobile": 8,
+        "steps_color": "#121212",
+        "steps_bg_color": "#FFFFFF",
+        "steps_border_color": "#121212",
+        "title_color": "#121212",
+        "text_color": "#121212",
+        "image_border_color": "#121212",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 1000,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_with_text_XmaPg4",
+    "ss_steps_11_qL3bTm"
   ]
 }
