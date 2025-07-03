@@ -36,6 +36,9 @@
       "block_order": [
         "item_d7Nbdk"
       ],
+      "custom_css": [
+        ".image-with-text {padding-top: 40px;}"
+      ],
       "name": "Image with text",
       "settings": {
         "reveal_on_scroll": true,
