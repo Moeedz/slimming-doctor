@@ -349,13 +349,13 @@
         "step_iRGtb6": {
           "type": "step",
           "settings": {
-            "text": "<p>Get personalised treatment plan and insights based on health data</p>"
+            "text": "<h1><strong>Personalised Treatment Plan</strong></h1><p>Receive a treatment plan designed around your goals and lifestyle.<br/></p>"
           }
         },
         "step_7dkTkL": {
           "type": "step",
           "settings": {
-            "text": "<p>Track your health score to monitor the progress and stay in control</p>"
+            "text": "<h1>Follow Up</h1><p>Review With The Doctor</p>"
           }
         }
       },
