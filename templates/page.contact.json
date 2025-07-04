@@ -51,7 +51,7 @@
       "settings": {
         "heading": "Location",
         "address": "<p><strong>Free Car Parking</strong></p><p>249A Station Rd, Harrow HA1 2TB, United Kingdom</p>",
-        "map_address": "Havnegade 12, Copenhagen, Denmark",
+        "map_address": "249A Station Rd, Harrow HA1 2TB, United Kingdom",
         "google_map_api_key": "",
         "show_button": true,
         "button_text": "Get directions",
