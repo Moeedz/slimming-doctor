@@ -517,7 +517,7 @@
       "settings": {
         "heading": "Slimming Doctor",
         "address": "<p>Wednesday, 10:00am - 6:00pm<br/>Sunday, 10:00am - 4:00pm<br/></p>",
-        "map_address": "",
+        "map_address": "https://maps.app.goo.gl/1QisCrU8V8vMPm5R8",
         "google_map_api_key": "",
         "show_button": true,
         "button_text": "Get Directions",
