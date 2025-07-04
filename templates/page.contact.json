@@ -44,10 +44,40 @@
         "button_background": "#419eed",
         "button_text_color": "#ffffff"
       }
+    },
+    "ss_map_bceQCG": {
+      "type": "ss-map",
+      "name": "SS - Map",
+      "settings": {
+        "heading": "Location",
+        "address": "<p><strong>Free Car Parking</strong></p><p>249A Station Rd, Harrow HA1 2TB, United Kingdom</p>",
+        "map_address": "Havnegade 12, Copenhagen, Denmark",
+        "google_map_api_key": "",
+        "show_button": true,
+        "button_text": "Get directions",
+        "lazy_loading": true,
+        "heading_size": 24,
+        "address_size": 18,
+        "button_size": 12,
+        "background_color": "#ffffff",
+        "text_color": "#17224d",
+        "card_background_color": "#ffffff",
+        "btn_text_color": "#ffffff",
+        "btn_background_color": "#3393f0",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_x": 0,
+        "padding_x_desktop": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "full_width": true,
+        "section_width": 120
+      }
     }
   },
   "order": [
     "main",
-    "contact-form"
+    "contact-form",
+    "ss_map_bceQCG"
   ]
 }
