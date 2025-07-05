@@ -56,32 +56,88 @@
         "text_M9aNmf": {
           "type": "text",
           "settings": {
-            "question": "Do you offer free shipping?",
-            "answer": "<p>Yes, we provide free standard shipping on all orders over $100. For orders under $100, a small shipping fee applies, which will be shown at checkout.</p>"
+            "question": "Why chose Slimming Doctor?",
+            "answer": "<p>Our weight loss service is led by a medical doctor who is a specialist in weight loss. This provides him a unique expertise in creating bespoke weight loss programs to work around your lifestyle. At the Slimming Doctor, our goal is to help you lose weight affectively and in a safe way. There is no time limit to our consultations which means a personalised approach is followed. We are here to support your weight loss and  all the way!</p>"
           }
         },
         "text_pTnQVT": {
           "type": "text",
           "settings": {
-            "question": "What is your refund policy?",
-            "answer": "<p>If you're not completely satisfied with your purchase, you can return it within 14 for a full refund. Please ensure the item is unused and in its original packaging.</p>"
+            "question": "Do I have to follow a specific diet?",
+            "answer": "<p>Your doctor will assess your current eating habits and lifestyle, and provide a personalised meal plan which will be suited to your requirements. At Slimming Doctor, we do not support crash dieting or ‘fad’ diet culture. Overwhelming medical evidence suggests that not only they do not work for sustainable weight loss, but can cause serious harm to your physical and mental health, including an eating disorder! Our aim is to help you achieve sustainable weight loss whilst avoiding harmful behaviours.</p>"
           }
         },
         "text_DtMDxd": {
           "type": "text",
           "settings": {
-            "question": "How can I create headshots with AI?",
-            "answer": "<p>Need professional headshots quickly? <a href=\"https://headshots.so\">headshots.so</a>, <a href=\"https://headshots.dk\">headshots.dk</a>, <a href=\"https://headshots.se\">headshots.se</a>, and <a href=\"https://headshots.no\">headshots.no</a> make it easy to produce high-quality images in just a few minutes. Whether you’re updating your LinkedIn profile or website, these platforms help you get a polished look without any hassle.</p>"
+            "question": "Do diet pills really work?",
+            "answer": "<p>Weight-loss medication should never be taken without a doctor’s consultation and never be purchased online. You should never get them from an unreliable source. Our medication works by curbing your hunger instead of a drastic reduction in your appetite. It only acts as an aid through your weight loss journey. They only work when coupled with the right balance of calories in your diet and exercise; all of which our doctor will guide you through.</p>"
+          }
+        },
+        "text_tpL9Mc": {
+          "type": "text",
+          "settings": {
+            "question": "Do I still have to exercise while on this medication?",
+            "answer": "<p>The short answer is ‘yes’. This medication is by no means a miracle cure to lose weight. Exercising along with the healthy eating habits would need to be followed to achieve optimum results.</p>"
+          }
+        },
+        "text_6MBcfG": {
+          "type": "text",
+          "settings": {
+            "question": "Are diet pills right for me?",
+            "answer": "<p>On your very first consultation, our doctor will go through your weight, blood pressure personal journey/history, medication, and health style. Our doctor will only recommend the medication if you are seen to be fit to receive the medication.</p>"
+          }
+        },
+        "text_LkTyaK": {
+          "type": "text",
+          "settings": {
+            "question": "Can I quit anytime if they are not working for me?",
+            "answer": "<p>It would be highly advisable to call or see our doctor if you feel they are interfering with your health in anyway or are not working for you.</p>"
+          }
+        },
+        "text_HtWDiX": {
+          "type": "text",
+          "settings": {
+            "question": "What if I take a double dose or forget to take my dose in error?",
+            "answer": "<p>A double dose should never be taken if missed. The dose requirements recommended by our doctor should be followed. If ever in doubt, please call the clinic and seek appropriate guidance and advice.</p>"
+          }
+        },
+        "text_bfp4CW": {
+          "type": "text",
+          "settings": {
+            "question": "What about side effects and the bad-press surrounding diet pills?",
+            "answer": "<p>There has been a lot of bad press surrounding diet pills lately and understandably so. This is mainly because they are abused and are taken <span style=\"text-decoration:underline\">without </span>a doctor’s consultation. At our clinic you will be given a <strong>bespoke diet plan </strong>along with your medication. You will also be <strong>monitored </strong>throughout your weight loss journey. Like any medication there are side-effects, however our doctor will explain these during your very first consultation. Side-effects are also listed in the patient information leaflet which our doctor will provide.</p>"
+          }
+        },
+        "text_pJAQQm": {
+          "type": "text",
+          "settings": {
+            "question": "How long till I achieve results?",
+            "answer": "<p>Every patient is different, and a timeline cannot be fixed. However, our doctor will give you a range of when you should expect results. The goal is to achieve sustainable and realistic weight loss without suffering from disordered eating.</p>"
+          }
+        },
+        "text_pmUft4": {
+          "type": "text",
+          "settings": {
+            "question": "Why is my GP not prescribing these?",
+            "answer": "<p>As these medicines come under a ‘specials’ class they cannot be prescribed by your GP, only a doctor registered with a weight loss clinic can prescribe these. Your GP will be notified after your visit.</p>"
           }
         }
       },
       "block_order": [
         "text_M9aNmf",
         "text_pTnQVT",
-        "text_DtMDxd"
+        "text_DtMDxd",
+        "text_tpL9Mc",
+        "text_6MBcfG",
+        "text_LkTyaK",
+        "text_HtWDiX",
+        "text_bfp4CW",
+        "text_pJAQQm",
+        "text_pmUft4"
       ],
       "custom_css": [
-        "label.rb-faq-question {border-bottom: solid 1px #17224D; border-radius: 0 !important;}"
+        "label.rb-faq-question {border-bottom: solid 1px #17224d; border-radius: 0 !important;}"
       ],
       "name": "SS - FAQ #1",
       "settings": {
@@ -90,8 +146,8 @@
         "hover_color": "#37d2d7",
         "question_color": "#37d2d7",
         "background_color": "#ffffff",
-        "answer_color": "#000",
-        "answer_bg_color": "#fff",
+        "answer_color": "#000000",
+        "answer_bg_color": "#ffffff",
         "questions-font-size": 1.2
       }
     }
