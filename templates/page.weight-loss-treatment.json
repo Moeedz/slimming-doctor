@@ -169,8 +169,8 @@
       ],
       "name": "Contact form",
       "settings": {
-        "title": "Contact Us",
-        "content": "",
+        "title": "Book an Appointment",
+        "content": "<p>We’d love to hear from you. If you would like a call back please contact us via WhatsApp. Alternatively, you can fill the form below and a member of our team will be in touch with you.</p>",
         "text_1_heading": "",
         "text_1_text": "",
         "text_2_heading": "",
