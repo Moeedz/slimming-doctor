@@ -11,13 +11,191 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_title": true,
         "page_width": "medium"
       }
+    },
+    "ss_testimonial_6_jA8Qit": {
+      "type": "ss-testimonial-6",
+      "blocks": {
+        "testimonial_JwkhPQ": {
+          "type": "testimonial",
+          "settings": {
+            "text": "Quality",
+            "rating": 4.8
+          }
+        },
+        "testimonial_dpgjFg": {
+          "type": "testimonial",
+          "settings": {
+            "text": "Durability",
+            "rating": 4.7
+          }
+        },
+        "testimonial_3yX6Xc": {
+          "type": "testimonial",
+          "settings": {
+            "text": "Design",
+            "rating": 4.5
+          }
+        },
+        "testimonial_3hzM8R": {
+          "type": "testimonial",
+          "settings": {
+            "text": "Value for money",
+            "rating": 4.8
+          }
+        },
+        "image_q9cz7Q": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_BMR6YC": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_WxbT9m": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_dPntz7": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_kKKbH7": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_ybNgN8": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_4jP3bf": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_TiHHfL": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_PPHixe": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "testimonial_JwkhPQ",
+        "testimonial_dpgjFg",
+        "testimonial_3yX6Xc",
+        "testimonial_3hzM8R",
+        "image_q9cz7Q",
+        "image_BMR6YC",
+        "image_WxbT9m",
+        "image_dPntz7",
+        "image_kKKbH7",
+        "image_ybNgN8",
+        "image_4jP3bf",
+        "image_TiHHfL",
+        "image_PPHixe"
+      ],
+      "name": "SS - Testimonials #6",
+      "settings": {
+        "heading": "<h2><strong>5000+</strong> PEOPLE LOVE US</h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 54,
+        "heading_size_mobile": 32,
+        "heading_height": 130,
+        "heading_align": "left",
+        "heading_align_mobile": "center",
+        "testimonials_mt": 24,
+        "testimonials_item_padding_vertical": 24,
+        "testimonials_item_border_thickness": 1,
+        "testimonial_text_custom": false,
+        "testimonial_text_font": "josefin_sans_n4",
+        "testimonial_text_size": 20,
+        "testimonial_text_size_mobile": 16,
+        "testimonial_text_height": 100,
+        "testimonial_rating_custom": false,
+        "testimonial_rating_font": "josefin_sans_n4",
+        "testimonial_rating_size": 24,
+        "testimonial_rating_size_mobile": 18,
+        "testimonial_rating_height": 100,
+        "stars_size": 24,
+        "button": "GET $10 OFF FIRST ORDER",
+        "button_url": "",
+        "button_use_icon": false,
+        "button_use_shadow": false,
+        "button_use_hover": false,
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 24,
+        "button_size_mobile": 16,
+        "button_height": 100,
+        "button_align": "left",
+        "button_align_mobile": "center",
+        "button_mt": 48,
+        "button_padding_vertical": 20,
+        "button_padding_horizontal": 32,
+        "button_radius": 48,
+        "button_border_thickness": 3,
+        "text": "",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 130,
+        "text_align": "left",
+        "text_align_mobile": "center",
+        "text_mt": 24,
+        "image_row": 3,
+        "image_row_mobile": 3,
+        "image_show_mobile": 4,
+        "image_gap": 24,
+        "image_gap_mobile": 24,
+        "image_padding": 8,
+        "image_radius": 16,
+        "image_border_thickness": 1,
+        "image_shadow": true,
+        "image_rotate": true,
+        "heading_color": "#17224d",
+        "heading_other_color": "#37d2d7",
+        "testimonials_item_border_color": "#232529",
+        "testimonial_text_color": "#232529",
+        "testimonial_rating_color": "#232529",
+        "stars_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_hover_color": "#232529",
+        "button_bg_color": "#419eed",
+        "button_bg_gradient_color": "",
+        "button_bg_hover_color": "#419eed",
+        "button_bg_gradient_hover_color": "",
+        "button_border_color": "#FFFFFF",
+        "button_border_hover_color": "#FFFFFF",
+        "text_color": "#232529",
+        "image_bg": "#FFFFFF",
+        "image_border_color": "#419eed",
+        "image_shadow_color": "#419eed",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 130,
+        "border_thickness": 1,
+        "lazy": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "ss_testimonial_6_jA8Qit"
   ]
 }
