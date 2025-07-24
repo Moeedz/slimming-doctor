@@ -15,9 +15,28 @@
         "show_title": true,
         "page_width": "medium"
       }
+    },
+    "17533362337fc29de3": {
+      "type": "apps",
+      "blocks": {
+        "powerful_form_builder_app_block_RECUQn": {
+          "type": "shopify://apps/powerful-form-builder/blocks/app-block/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"MTAwMTE1\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "powerful_form_builder_app_block_RECUQn"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "17533362337fc29de3"
   ]
 }
