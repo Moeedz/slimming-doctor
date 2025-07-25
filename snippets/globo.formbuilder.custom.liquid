@@ -17,7 +17,7 @@
     if (formId == "100115") {
       let weight = form.querySelector('input[name="text-1"]')
       let height = form.querySelector('input[name="text-2"]')
-      form.querySelector('#html-3').style.display = 'none'
+      form.querySelector('#html-11').style.display = 'none'
 
       if (height) {
         height.addEventListener('input', e => {
@@ -25,16 +25,16 @@
             let bmi = calculateBMI(weight.value, height.value)
             form.querySelector('.show-bmi span').innerText = bmi
             if (bmi < 27) {
-              form.querySelector('#html-3').style.display = 'block'
+              form.querySelector('#html-11').style.display = 'block'
               document.querySelector('[data-id="100115"] .gfb__footer').style.display = 'none'
               updateFormHeight()
             } else {
-              form.querySelector('#html-3').style.display = 'none'
+              form.querySelector('#html-11').style.display = 'none'
               document.querySelector('[data-id="100115"] .gfb__footer').style.display = 'block'
               updateFormHeight()
             }
           } else {
-            form.querySelector('#html-3').style.display = 'none'
+            form.querySelector('#html-11').style.display = 'none'
             document.querySelector('[data-id="100115"] .gfb__footer').style.display = 'block'
             updateFormHeight()
           }
