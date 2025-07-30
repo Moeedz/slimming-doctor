@@ -11,6 +11,13 @@
     const bmi = weightKg / (heightM * heightM);
     return bmi.toFixed(1); // round to 2 decimal places
   }
+
+  function calculateImperialBMI(weightLb, feet, inches) {
+    const totalInches = (feet * 12) + inches;
+    const iBmi = ((weightLb * 703) / (totalInches * totalInches));
+    console.log("calculateImperialBMI bmi", iBmi)
+    return iBmi.toFixed(1);
+  }
   
   document.addEventListener('globo.formbuilder.form.loaded', e => {
     const { formId, form } = e.detail
@@ -22,7 +29,37 @@
       if (height) {
         height.addEventListener('input', e => {
           if (weight.value && height.value.length > 2) {
-            let bmi = calculateBMI(weight.value, height.value)
+            let bmi = calculateBMI(parseFloat(weight.value), parseFloat(height.value))
+            form.querySelector('.show-bmi span').innerText = bmi
+            if (bmi < 27) {
+              form.querySelector('#html-11').style.display = 'block'
+              document.querySelector('[data-id="100115"] .gfb__footer').style.display = 'none'
+              updateFormHeight()
+            } else {
+              form.querySelector('#html-11').style.display = 'none'
+              document.querySelector('[data-id="100115"] .gfb__footer').style.display = 'block'
+              updateFormHeight()
+            }
+          } else {
+            form.querySelector('#html-11').style.display = 'none'
+            document.querySelector('[data-id="100115"] .gfb__footer').style.display = 'block'
+            updateFormHeight()
+          }
+        })
+      }
+
+      let iWeight = form.querySelector('input[name="text-3"]')
+      let iHeightFeet = form.querySelector('input[name="text-4"]')
+      let iHeightInch = form.querySelector('input[name="text-5"]')
+
+      if (iHeightInch) {
+        iHeightInch.addEventListener('input', e => {
+          if (iWeight.value && iHeightFeet.value && iHeightInch.value.length > 0) {
+            console.log("iWeight", iWeight.value)
+            console.log("iHeightFeet", iHeightFeet.value)
+            console.log("iHeightInch", iHeightInch.value)
+            let bmi = calculateImperialBMI(parseFloat(iWeight.value), parseFloat(iHeightFeet.value), parseFloat(iHeightInch.value))
+            console.log("bmi", bmi)
             form.querySelector('.show-bmi span').innerText = bmi
             if (bmi < 27) {
               form.querySelector('#html-11').style.display = 'block'
