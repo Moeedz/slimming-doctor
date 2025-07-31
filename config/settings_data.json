@@ -70,11 +70,14 @@
     "sections": {
       "mini-cart": {
         "type": "mini-cart",
+        "custom_css": [
+          "cart-drawer#mini-cart {z-index: 9999 !important;}"
+        ],
         "settings": {
           "show_order_note": false,
           "show_checkout_button": true,
           "empty_button_link": "shopify://collections/all",
-          "show_recommendations": true,
+          "show_recommendations": false,
           "recommendations_title": "Das könnte dir auch gefallen ..."
         }
       }
