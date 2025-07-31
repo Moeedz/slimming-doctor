@@ -17,6 +17,35 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
 
 <html class="no-js" lang="{{ request.locale.iso_code }}" dir="{{ direction }}">
   <head>
+    <script>
+document.addEventListener('DOMContentLoaded', function() {
+  const buyNowButton = document.getElementById('BuyNow');
+  
+  if (buyNowButton) {
+    buyNowButton.addEventListener('click', function(e) {
+      e.preventDefault();
+      
+      // Get form data
+      const form = this.closest('form');
+      const formData = new FormData(form);
+      
+      // Add to cart and redirect to checkout
+      fetch('/cart/add.js', {
+        method: 'POST',
+        body: formData
+      })
+      .then(response => response.json())
+      .then(data => {
+        // Redirect to checkout
+        window.location.href = '/checkout';
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
+    });
+  }
+});
+      </script>
     {% if page.handle == 'get-started' %}
     <style>
 .announcement-bar__link, .header, footer {
