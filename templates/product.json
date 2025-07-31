@@ -69,7 +69,8 @@
         "@media screen and (max-width: 767px) {h1.product-meta__title.heading.h3 {font-size: 19px; } label.block-swatch__item {font-size: 11px !important; }}",
         ".block-swatch__radio:checked + .block-swatch__item {background: #37d2d7 !important; color: white !important;}",
         ".block-swatch__item:after {box-shadow: unset;}",
-        "label.block-swatch__item {font-size: 13px;}"
+        "label.block-swatch__item {font-size: 13px;}",
+        ".product.product--thumbnails-bottom {margin-bottom: 20px !important;}"
       ],
       "settings": {
         "show_vendor": false,
