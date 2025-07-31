@@ -218,11 +218,75 @@
         "section_radius": 0,
         "lazy": false
       }
+    },
+    "faq_kep8Ed": {
+      "type": "faq",
+      "blocks": {
+        "question_U79tXY": {
+          "type": "question",
+          "settings": {
+            "title": "Is there a contract?",
+            "answer": "<p>No, there is no long-term contract required. You are not tied into any ongoing agreements.</p>"
+          }
+        },
+        "question_eNcmpH": {
+          "type": "question",
+          "settings": {
+            "title": "How does the payment model work?",
+            "answer": "<p>This is not a subscription service. You will need to reorder medication each month as per your needs.</p>"
+          }
+        },
+        "question_Qtj4z4": {
+          "type": "question",
+          "settings": {
+            "title": "What about consultations?",
+            "answer": "<p>Consultations are included in the price, offering ongoing medical support, dosage adjustments, and personalized advice throughout your treatment.</p>"
+          }
+        },
+        "question_pR8yY6": {
+          "type": "question",
+          "settings": {
+            "title": "How do I order medication?",
+            "answer": "<p>You can order online, where a doctor will guide you through the process, adjusting the dosage as needed and monitoring your progress.</p>"
+          }
+        },
+        "question_E3VY3Q": {
+          "type": "question",
+          "settings": {
+            "title": "What happens after I place my order, and how will the doctor contact me?",
+            "answer": "<p>Once you place an order, a doctor will review your information and get in touch via phone or WhatsApp to discuss your treatment plan. The doctor will provide guidance, dosage adjustments, and ongoing support throughout the process.</p>"
+          }
+        },
+        "question_nNV6ND": {
+          "type": "question",
+          "settings": {
+            "title": "How often will I have consultations?",
+            "answer": "<p>Consultations are ongoing and scheduled as needed to monitor your progress and make adjustments to your dosage.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_U79tXY",
+        "question_eNcmpH",
+        "question_Qtj4z4",
+        "question_pR8yY6",
+        "question_E3VY3Q",
+        "question_nNV6ND"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "show_navigation": false,
+        "title": "Frequently asked questions",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "#17224d"
+      }
     }
   },
   "order": [
     "main",
     "product-content",
-    "ss_steps_11_XdfwXX"
+    "ss_steps_11_XdfwXX",
+    "faq_kep8Ed"
   ]
 }
