@@ -276,7 +276,7 @@
       "name": "FAQ",
       "settings": {
         "show_navigation": false,
-        "title": "Frequently asked questions",
+        "title": "FAQs",
         "content": "",
         "background": "rgba(0,0,0,0)",
         "text_color": "#17224d"
