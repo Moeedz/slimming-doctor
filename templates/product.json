@@ -102,45 +102,112 @@
       "disabled": true,
       "settings": {}
     },
-    "slideshow_gp4B49": {
-      "type": "slideshow",
+    "ss_steps_11_XdfwXX": {
+      "type": "ss-steps-11",
       "blocks": {
-        "image_PeVbTd": {
-          "type": "image",
+        "step_3kwEd7": {
+          "type": "step",
           "settings": {
-            "image": "shopify://shop_images/38daff1a-54a8-4f2e-9f5a-3e50c4603fbd-e1727333227773_998622c4-e85f-4544-b28b-74682e7296d3.png",
-            "text_position": "middle_center",
-            "subheading": "",
-            "title": "",
-            "description": "",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "step": "STEP 1",
+            "title": "Complete an online self-assessment.",
+            "text": ""
+          }
+        },
+        "step_9yGBnY": {
+          "type": "step",
+          "settings": {
+            "step": "STEP 2",
+            "title": "Receive your medications and begin your slimming journey.",
+            "text": ""
+          }
+        },
+        "step_WiRyfH": {
+          "type": "step",
+          "settings": {
+            "step": "STEP 3",
+            "title": "Have regular check-ins with our weight loss doctor to keep you on track.",
+            "text": ""
+          }
+        },
+        "step_QJ4eiH": {
+          "type": "step",
+          "settings": {
+            "step": "STEP 4",
+            "title": "Once you reach your goal, your doctor will guide you through a personalised maintenance plan.",
+            "text": ""
           }
         }
       },
       "block_order": [
-        "image_PeVbTd"
+        "step_3kwEd7",
+        "step_9yGBnY",
+        "step_WiRyfH",
+        "step_QJ4eiH"
       ],
-      "name": "Slideshow",
+      "name": "SS - Steps #11",
       "settings": {
-        "section_height": "auto",
-        "transition_type": "sweep",
-        "autoplay": true,
-        "cycle_speed": 5,
-        "background": "rgba(0,0,0,0)"
+        "layout": "image_content",
+        "layout_mobile": "image_content",
+        "layout_gap": 100,
+        "layout_gap_mobile": 32,
+        "image": "shopify://shop_images/consultation.jpg",
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "portrait",
+        "steps_custom": false,
+        "steps_font": "josefin_sans_n4",
+        "steps_size": 12,
+        "steps_size_mobile": 12,
+        "steps_height": 100,
+        "steps_padding_horizontal": 8,
+        "steps_padding_horizontal_mobile": 8,
+        "steps_padding_vertical": 4,
+        "steps_padding_vertical_mobile": 4,
+        "steps_radius": 100,
+        "steps_border_thickness": 1,
+        "steps_content_align": "left",
+        "steps_content_align_mobile": "left",
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 24,
+        "title_size_mobile": 20,
+        "title_height": 130,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 14,
+        "text_size_mobile": 12,
+        "text_height": 150,
+        "text_mt": 8,
+        "text_mt_mobile": 8,
+        "steps_color": "#ffffff",
+        "steps_bg_color": "#3393f0",
+        "steps_border_color": "#3393f0",
+        "title_color": "#17224d",
+        "text_color": "#121212",
+        "image_border_color": "#121212",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 1300,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": false
       }
     }
   },
   "order": [
     "main",
     "product-content",
-    "slideshow_gp4B49"
+    "ss_steps_11_XdfwXX"
   ]
 }
