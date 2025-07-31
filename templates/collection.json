@@ -11,6 +11,9 @@
   "sections": {
     "collection-banner": {
       "type": "collection-banner",
+      "custom_css": [
+        "h1.heading.h1 {text-transform: uppercase;}"
+      ],
       "settings": {
         "show_collection_image": true,
         "show_collection_title": true,
