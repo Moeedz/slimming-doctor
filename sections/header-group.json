@@ -24,6 +24,9 @@
       "block_order": [
         "text_jDbqbj"
       ],
+      "custom_css": [
+        "@media screen and (max-width: 767px) {.announcement-bar__link {padding: 0.8rem 2rem;}}"
+      ],
       "name": "SS - Scrolling Announcement Bar",
       "settings": {
         "insert_css_class_target": "",
@@ -37,7 +40,7 @@
         "text_color": "#ffffff",
         "hover_opacity": 88,
         "padding_horizontal": 2,
-        "padding_vertical": 0.8
+        "padding_vertical": 1.5
       }
     },
     "announcement-bar": {
