@@ -34,6 +34,12 @@
             "liquid": "<span slot=\"end\">\n<p style=\"padding-top:10px;padding-bottom:10px\"><img draggable=\"false\" role=\"img\" class=\"emoji\" alt=\"✔\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2714.svg\"> Controls appetite and reduces sugar cravings<br><img draggable=\"false\" role=\"img\" class=\"emoji\" alt=\"✔\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2714.svg\"> Clinically proven to reduce body weight by up to 22.5%<br><img draggable=\"false\" role=\"img\" class=\"emoji\" alt=\"✔\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2714.svg\"> Visible results in just a few weeks<br><img draggable=\"false\" role=\"img\" class=\"emoji\" alt=\"✔\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2714.svg\"> Weekly injection with 4 doses per pen (1 month supply)</p>\n</span>\n\n<style>\n\nimg.wp-smiley, img.emoji {\n    display: inline !important;\n    border: none !important;\n    box-shadow: none !important;\n    height: 1em !important;\n    width: 1em !important;\n    margin: 0 0.07em !important;\n    vertical-align: -0.1em !important;\n    background: none !important;\n    padding: 0 !important;\n}\n</style>"
           }
         },
+        "liquid_dYFUL3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0972/1600/4434/files/38daff1a-54a8-4f2e-9f5a-3e50c4603fbd-e1727333227773.png?v=1753528631\" />"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -54,6 +60,7 @@
         "79f59e69-c0a7-44b7-a418-53eab877b449",
         "variant_picker",
         "liquid_gaQDQz",
+        "liquid_dYFUL3",
         "buy_buttons",
         "description_gjMbMY"
       ],
