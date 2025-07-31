@@ -57,6 +57,10 @@
         "buy_buttons",
         "description_gjMbMY"
       ],
+      "custom_css": [
+        "h1.product-meta__title.heading.h3 {font-size: 28px;}",
+        "@media screen and (max-width: 767px) {h1.product-meta__title.heading.h3 {font-size: 19px; }}"
+      ],
       "settings": {
         "show_vendor": false,
         "show_sku": false,
