@@ -25,6 +25,10 @@
     },
     "main": {
       "type": "main-collection",
+      "custom_css": [
+        ".product-facet__meta-bar.anchor {display: none;}",
+        ".mobile-toolbar {display: none;}"
+      ],
       "settings": {
         "show_sort_by": true,
         "products_per_page": 24,
