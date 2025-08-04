@@ -37,7 +37,7 @@
         "liquid_dYFUL3": {
           "type": "liquid",
           "settings": {
-            "liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0972/1600/4434/files/38daff1a-54a8-4f2e-9f5a-3e50c4603fbd-e1727333227773.png?v=1753528631\" />"
+            "liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0972/1600/4434/files/0ac7e59a-b59f-4a59-92ac-b8971e28a3ae_0331d300-be47-4d23-8894-28d0e0583ea4.png?v=1754289091\" />"
           }
         },
         "buy_buttons": {
@@ -201,7 +201,7 @@
         "title_color": "#17224d",
         "text_color": "#121212",
         "image_border_color": "#121212",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#121212",
         "margin_top": 0,
