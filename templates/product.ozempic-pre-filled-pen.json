@@ -1,0 +1,292 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "79f59e69-c0a7-44b7-a418-53eab877b449": {
+          "type": "inventory",
+          "disabled": true,
+          "settings": {
+            "low_inventory_threshold": 0
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "variant_image",
+            "size_chart_page": ""
+          }
+        },
+        "liquid_gaQDQz": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<span slot=\"end\">\n<p style=\"padding-top:10px;padding-bottom:10px\"><img draggable=\"false\" role=\"img\" class=\"emoji\" alt=\"✔\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2714.svg\"> Controls appetite and reduces sugar cravings<br><img draggable=\"false\" role=\"img\" class=\"emoji\" alt=\"✔\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2714.svg\"> Clinically proven to reduce body weight by up to 22.5%<br><img draggable=\"false\" role=\"img\" class=\"emoji\" alt=\"✔\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2714.svg\"> Visible results in just a few weeks<br><img draggable=\"false\" role=\"img\" class=\"emoji\" alt=\"✔\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2714.svg\"> Weekly injection with 4 doses per pen (1 month supply)</p>\n</span>\n\n<style>\n\nimg.wp-smiley, img.emoji {\n    display: inline !important;\n    border: none !important;\n    box-shadow: none !important;\n    height: 1em !important;\n    width: 1em !important;\n    margin: 0 0.07em !important;\n    vertical-align: -0.1em !important;\n    background: none !important;\n    padding: 0 !important;\n}\n</style>"
+          }
+        },
+        "liquid_dYFUL3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0972/1600/4434/files/38daff1a-54a8-4f2e-9f5a-3e50c4603fbd-e1727333227773.png?v=1753528631\" />"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#17224d",
+            "atc_button_text_color": "#ffffff",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "description_gjMbMY": {
+          "type": "description",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "79f59e69-c0a7-44b7-a418-53eab877b449",
+        "variant_picker",
+        "liquid_gaQDQz",
+        "liquid_dYFUL3",
+        "buy_buttons",
+        "description_gjMbMY"
+      ],
+      "custom_css": [
+        "h1.product-meta__title.heading.h3 {font-size: 28px;}",
+        "@media screen and (max-width: 767px) {h1.product-meta__title.heading.h3 {font-size: 19px; } label.block-swatch__item {font-size: 11px !important; }}",
+        ".block-swatch__radio:checked + .block-swatch__item {background: #37d2d7 !important; color: white !important;}",
+        ".block-swatch__item:after {box-shadow: unset;}",
+        "label.block-swatch__item {font-size: 13px;}",
+        ".product.product--thumbnails-bottom {margin-bottom: 20px !important;}"
+      ],
+      "settings": {
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": true,
+        "show_sticky_add_to_cart": false,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_image_zoom": false,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "dc5b6ad0-3ba5-42ba-a301-2d6b84702967": {
+          "type": "trust",
+          "settings": {
+            "icon_1": "picto-chat",
+            "title_1": "Shipping & Returns",
+            "content_1": "<p>Add text about your shipping policy</p>",
+            "icon_2": "picto-warranty",
+            "title_2": "Warranty",
+            "content_2": "<p>Add text about your product warranty</p>",
+            "icon_3": "picto-secure-payment",
+            "title_3": "Secure Payment",
+            "content_3": "<p>Add text about your payment</p>"
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "dc5b6ad0-3ba5-42ba-a301-2d6b84702967"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "ss_steps_11_XdfwXX": {
+      "type": "ss-steps-11",
+      "blocks": {
+        "step_3kwEd7": {
+          "type": "step",
+          "settings": {
+            "step": "STEP 1",
+            "title": "Complete an online self-assessment.",
+            "text": ""
+          }
+        },
+        "step_9yGBnY": {
+          "type": "step",
+          "settings": {
+            "step": "STEP 2",
+            "title": "Receive your medications and begin your slimming journey.",
+            "text": ""
+          }
+        },
+        "step_WiRyfH": {
+          "type": "step",
+          "settings": {
+            "step": "STEP 3",
+            "title": "Have regular check-ins with our weight loss doctor to keep you on track.",
+            "text": ""
+          }
+        },
+        "step_QJ4eiH": {
+          "type": "step",
+          "settings": {
+            "step": "STEP 4",
+            "title": "Once you reach your goal, your doctor will guide you through a personalised maintenance plan.",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "step_3kwEd7",
+        "step_9yGBnY",
+        "step_WiRyfH",
+        "step_QJ4eiH"
+      ],
+      "name": "SS - Steps #11",
+      "settings": {
+        "layout": "image_content",
+        "layout_mobile": "image_content",
+        "layout_gap": 100,
+        "layout_gap_mobile": 32,
+        "image": "shopify://shop_images/consultation.jpg",
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "portrait",
+        "steps_custom": false,
+        "steps_font": "josefin_sans_n4",
+        "steps_size": 12,
+        "steps_size_mobile": 12,
+        "steps_height": 100,
+        "steps_padding_horizontal": 8,
+        "steps_padding_horizontal_mobile": 8,
+        "steps_padding_vertical": 4,
+        "steps_padding_vertical_mobile": 4,
+        "steps_radius": 100,
+        "steps_border_thickness": 1,
+        "steps_content_align": "left",
+        "steps_content_align_mobile": "left",
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 24,
+        "title_size_mobile": 20,
+        "title_height": 130,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 14,
+        "text_size_mobile": 12,
+        "text_height": 150,
+        "text_mt": 8,
+        "text_mt_mobile": 8,
+        "steps_color": "#ffffff",
+        "steps_bg_color": "#3393f0",
+        "steps_border_color": "#3393f0",
+        "title_color": "#17224d",
+        "text_color": "#121212",
+        "image_border_color": "#121212",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 1300,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": false
+      }
+    },
+    "faq_kep8Ed": {
+      "type": "faq",
+      "blocks": {
+        "question_U79tXY": {
+          "type": "question",
+          "settings": {
+            "title": "Is there a contract?",
+            "answer": "<p>No, there is no long-term contract required. You are not tied into any ongoing agreements.</p>"
+          }
+        },
+        "question_eNcmpH": {
+          "type": "question",
+          "settings": {
+            "title": "How does the payment model work?",
+            "answer": "<p>This is not a subscription service. You will need to reorder medication each month as per your needs.</p>"
+          }
+        },
+        "question_Qtj4z4": {
+          "type": "question",
+          "settings": {
+            "title": "What about consultations?",
+            "answer": "<p>Consultations are included in the price, offering ongoing medical support, dosage adjustments, and personalized advice throughout your treatment.</p>"
+          }
+        },
+        "question_pR8yY6": {
+          "type": "question",
+          "settings": {
+            "title": "How do I order medication?",
+            "answer": "<p>You can order online, where a doctor will guide you through the process, adjusting the dosage as needed and monitoring your progress.</p>"
+          }
+        },
+        "question_E3VY3Q": {
+          "type": "question",
+          "settings": {
+            "title": "What happens after I place my order, and how will the doctor contact me?",
+            "answer": "<p>Once you place an order, a doctor will review your information and get in touch via phone or WhatsApp to discuss your treatment plan. The doctor will provide guidance, dosage adjustments, and ongoing support throughout the process.</p>"
+          }
+        },
+        "question_nNV6ND": {
+          "type": "question",
+          "settings": {
+            "title": "How often will I have consultations?",
+            "answer": "<p>Consultations are ongoing and scheduled as needed to monitor your progress and make adjustments to your dosage.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_U79tXY",
+        "question_eNcmpH",
+        "question_Qtj4z4",
+        "question_pR8yY6",
+        "question_E3VY3Q",
+        "question_nNV6ND"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "show_navigation": false,
+        "title": "FAQs",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "#17224d"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-content",
+    "ss_steps_11_XdfwXX",
+    "faq_kep8Ed"
+  ]
+}
